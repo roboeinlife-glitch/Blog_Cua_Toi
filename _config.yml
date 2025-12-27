@@ -33,3 +33,12 @@ future: true
 # 🛠️ Plugin bắt buộc cho theme Minimal Mistakes
 plugins:
   - jekyll-include-cache
+# Thêm vào cuối file _config.yml
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      author_profile: true
+      sidebar:
+        nav: "sidebar"  
