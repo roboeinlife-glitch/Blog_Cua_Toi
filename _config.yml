@@ -18,9 +18,11 @@ plugins:
   - jekyll-remote-theme  
 
 social:
-  name: RoboE_inlife 
+  name: RoboE_inlife  # Thay bằng tên bạn muốn hiển thị, ví dụ: Tên Thật Của Bạn
   links:
     - https://github.com/roboeinlife-glitch
-    - https://x.com/roboe_inlife
-    - https://www.youtube.com/@RoboE_Life
+    # Thêm link khác nếu có, mỗi link 1 dòng
+    https://www.youtube.com/@RoboE_Life
+    https://x.com/roboe_inlife
+    # - mailto:email@gmail.com
    
