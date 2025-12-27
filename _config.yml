@@ -14,7 +14,5 @@ highlighter: rouge
 timezone: Asia/Ho_Chi_Minh
 future: true
 
-remote_theme: cotes2020/jekyll-theme-chirpy@v7.0.0
-
 plugins:
   - jekyll-remote-theme  
