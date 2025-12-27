@@ -1,14 +1,14 @@
-title: "Blog Của Tôin"
-description: "Nơi chia sẻ quan điểm cá nhân và quá trình học hỏi"
-baseurl: "" 
-url: "https://github.com/roboeinlife-glitch" # Thay username của bạn
+title: "Blog của Robo"
+description: "Nơi chia sẻ những điều thú vị"
+baseurl: "/Blog_Cua_Toi"
+url: "https://roboeinlife-glitch.github.io"
 
-# Cài đặt cho posts
-permalink: /:year/:month/:day/:title/
-paginate: 5  # Số bài mỗi trang
-paginate_path: "/page:num/"
+theme: jekyll-theme-cayman
+show_downloads: true
 
-# Plugin cơ bản
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
+# QUAN TRỌNG: Đổi permalink
+permalink: /:year/:month/:day/:title:output_ext
+
+# Thêm cài đặt markdown
+markdown: kramdown
+highlighter: rouge
