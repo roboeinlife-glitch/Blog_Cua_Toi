@@ -8,8 +8,9 @@ remote_theme: mmistakes/minimal-mistakes
 
 # 👤 Cấu hình tác giả và liên kết mạng xã hội
 author:
-  name   : "RoboE_inlife"
-  avatar : "/assets/images/bio-photo.jpg"
+  name: "RoboE_inlife"
+  avatar: "/assets/images/bio-photo.jpg" # Nếu chưa có ảnh, bạn có thể đổi thành `null`
+  bio: "Chào mừng bạn đến với blog của mình!" # Thêm dòng mô tả này
   links:
     - label: "GitHub"
       icon: "fab fa-github"
