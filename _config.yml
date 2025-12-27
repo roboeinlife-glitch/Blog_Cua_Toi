@@ -22,7 +22,7 @@ social:
   links:
     - https://github.com/roboeinlife-glitch
     # Thêm link khác nếu có, mỗi link 1 dòng
-    https://www.youtube.com/@RoboE_Life
-    https://x.com/roboe_inlife
+    - https://www.youtube.com/@RoboE_Life
+    - https://x.com/roboe_inlife
     # - mailto:email@gmail.com
    
