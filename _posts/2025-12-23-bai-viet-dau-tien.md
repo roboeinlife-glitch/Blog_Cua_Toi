@@ -13,19 +13,11 @@ sidebar:
 
 Tôi đang học cách sử dụng page trên Github để tạo blog
 
-Cảm ơn các bạn đã ghé thăm, rất mong nhận được sự giúp đỡ của các bạn!
+Cảm ơn các bạn đã ghé thăm
 
 Cuộn xuống để đọc các blog tiếp theo
 
-# Chào mừng đến với blog của tôi!
 
-Đây là bài viết đầu tiên được viết bằng markdown.
-
-Tôi đang học cách sử dụng page trên Github để tạo blog
-
-Cảm ơn các bạn đã ghé thăm, rất mong nhận được sự giúp đỡ của các bạn!
-
-Cuộn xuống để đọc các blog tiếp theo
 
 [Về trang chính của blog](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/)
 
