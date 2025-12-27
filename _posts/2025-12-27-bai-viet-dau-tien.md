@@ -11,4 +11,8 @@ Tôi đang học cách sử dụng page trên Github để tạo blog
 
 Cảm ơn các bạn đã ghé thăm, rất mong nhận được sự giúp đỡ của các bạn!
 
+Cuộn xuống để đọc các blog tiếp theo
+
+[Về trang chính của blog](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/)
+
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
