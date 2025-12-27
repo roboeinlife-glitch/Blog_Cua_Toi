@@ -1,9 +1,12 @@
 ---
 title: "Hello World"
 date: 2025-12-23
+author_profile: true
+sidebar:
+  nav: "sidebar"
 ---
 
-**Chào mừng đến với blog của tôi!**
+# Chào mừng đến với blog của tôi!
 
 Đây là bài viết đầu tiên được viết bằng markdown.
 
