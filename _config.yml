@@ -3,28 +3,31 @@ description: "Nơi chia sẻ những điều thú vị"
 baseurl: "/Blog_Cua_Toi"
 url: "https://roboeinlife-glitch.github.io"
 
+# 🎨 QUAN TRỌNG: Theme hỗ trợ icon mạng xã hội
+remote_theme: mmistakes/minimal-mistakes
+
+# 👤 Cấu hình tác giả và liên kết mạng xã hội
+author:
+  name   : "RoboE_inlife"
+  avatar : "/assets/images/bio-photo.jpg" # Tùy chọn: bạn có thể upload ảnh vào thư mục này sau
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/roboeinlife-glitch"
+    - label: "YouTube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/@RoboE_Life"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://x.com/roboe_inlife"
+
+# ⚙️ Các cài đặt kỹ thuật khác (giữ nguyên từ bản cũ)
 show_downloads: true
-
-# QUAN TRỌNG: Đổi permalink
 permalink: /:year/:month/:day/:title:output_ext
-
-# Thêm cài đặt markdown
 markdown: kramdown
 highlighter: rouge
 timezone: Asia/Ho_Chi_Minh
 future: true
 
-plugins:
-  - jekyll-remote-theme  
-
-social:
-  name: RoboE_inlife  # Thay bằng tên bạn muốn hiển thị, ví dụ: Tên Thật Của Bạn
-  links:
-    - https://github.com/roboeinlife-glitch
-    # Thêm link khác nếu có, mỗi link 1 dòng
-    - https://www.youtube.com/@RoboE_Life
-    - https://x.com/roboe_inlife
-    # - mailto:email@gmail.com
-
-footer:
-  show_social: true
+# 🚨 LƯU Ý: KHÔNG cần phần plugins khi đã dùng remote_theme
+# Các plugin sẽ được theme quản lý tự động
