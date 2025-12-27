@@ -3,7 +3,6 @@ description: "Nơi chia sẻ những điều thú vị"
 baseurl: "/Blog_Cua_Toi"
 url: "https://roboeinlife-glitch.github.io"
 
-theme: jekyll-theme-cayman
 show_downloads: true
 
 # QUAN TRỌNG: Đổi permalink
@@ -14,3 +13,8 @@ markdown: kramdown
 highlighter: rouge
 timezone: Asia/Ho_Chi_Minh
 future: true
+
+remote_theme: cotes2020/jekyll-theme-chirpy@v7.0.0
+
+plugins:
+  - jekyll-remote-theme  
