@@ -11,6 +11,6 @@ title: "Trang chủ"
 
 {{ post.excerpt | truncate: 200 }}
 
-[Đọc tiếp →]({{ post.url }})
+[Đọc tiếp →]({{ site.baseurl }}{{ post.url }})
 <hr>
 {% endfor %}
