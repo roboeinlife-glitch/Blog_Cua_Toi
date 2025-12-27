@@ -1,16 +1,5 @@
 ---
-layout: default
+layout: home
 title: "Trang chủ"
+author_profile: true
 ---
-
-# Blog của tôi
-
-{% for post in site.posts %}
-## [{{ post.title }}]({{ post.url }})
-{{ post.date | date: "%d/%m/%Y" }}
-
-{{ post.excerpt | truncate: 200 }}
-
-[Đọc tiếp →]({{ site.baseurl }}{{ post.url }})
-<hr>
-{% endfor %}
