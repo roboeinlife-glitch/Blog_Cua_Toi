@@ -27,6 +27,7 @@ jobs:
         with:
           source: ./
           destination: ./_site
+          jekyll_build_args: "--safe" # <- DÒNG QUAN TRỌNG ĐÃ THÊM VÀO
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
