@@ -12,3 +12,5 @@ permalink: /:year/:month/:day/:title:output_ext
 # Thêm cài đặt markdown
 markdown: kramdown
 highlighter: rouge
+timezone: Asia/Ho_Chi_Minh
+future: false
