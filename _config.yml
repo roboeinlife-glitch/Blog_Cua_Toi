@@ -1,0 +1,14 @@
+title: "Blog Của Tôin"
+description: "Nơi chia sẻ quan điểm cá nhân và quá trình học hỏi"
+baseurl: "" 
+url: "https://github.com/roboeinlife-glitch" # Thay username của bạn
+
+# Cài đặt cho posts
+permalink: /:year/:month/:day/:title/
+paginate: 5  # Số bài mỗi trang
+paginate_path: "/page:num/"
+
+# Plugin cơ bản
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
