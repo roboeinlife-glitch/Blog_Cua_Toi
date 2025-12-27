@@ -42,3 +42,4 @@ defaults:
       author_profile: true
       sidebar:
         nav: "sidebar"  
+  # Trigger rebuild - 2025/12/27
