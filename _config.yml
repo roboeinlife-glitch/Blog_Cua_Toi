@@ -16,3 +16,11 @@ future: true
 
 plugins:
   - jekyll-remote-theme  
+
+social:
+  name: Robo Einlife  # Thay bằng tên thật của bạn, ví dụ: Nguyễn Văn A
+  links:
+    - https://github.com/roboeinlife-glitch
+   - https://x.com/roboe_inlife
+   - https://www.youtube.com/channel/UCWTXHWKmWC1B4pRQPGDpJ5A
+   
