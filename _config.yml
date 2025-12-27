@@ -10,7 +10,7 @@ remote_theme: mmistakes/minimal-mistakes
 author:
   name: "RoboE_inlife"
   avatar: "/assets/images/Gimball.png" # Nếu chưa có ảnh, bạn có thể đổi thành `null`
-  bio: "Chào mừng bạn đến với blog của mình!" # Thêm dòng mô tả này
+  bio: "Chào mừng bạn đến với blog của tôi!" # Thêm dòng mô tả này
   links:
     - label: "GitHub"
       icon: "fab fa-github"
