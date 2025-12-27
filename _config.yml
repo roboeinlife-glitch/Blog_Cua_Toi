@@ -13,4 +13,4 @@ permalink: /:year/:month/:day/:title:output_ext
 markdown: kramdown
 highlighter: rouge
 timezone: Asia/Ho_Chi_Minh
-future: false
+future: true
