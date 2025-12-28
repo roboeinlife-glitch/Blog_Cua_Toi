@@ -24,3 +24,7 @@ Quá trình này ban đầu có hơi phức tạp, nhưng khi nhìn thấy thàn
 
 Tôi rất mong nhận được ý kiến đóng góp từ các bạn và giúp tôi cải thiện cũng như hiểu biết thêm về cách dùng các tính năng trên Github.
 
+[Về trang chính của blog](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/)
+
+[Trở về trang chủ](https://github.com/roboeinlife-glitch)
+
