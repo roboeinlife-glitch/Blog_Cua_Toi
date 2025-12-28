@@ -1,14 +1,12 @@
 ---
-# Tên layout vẫn là "home"
-layout: home
-title: "Trang chủ"
+layout: posts
+title: "Bài viết"
 author_profile: true
 sidebar:
   nav: "sidebar"
-# Thêm các dòng cấu hình dưới đây để hiển thị bài viết
-paginate: 5 # Số bài trên một trang
-paginate_path: "/page:num/" # Đường dẫn phân trang
-# Bố cục bài viết trên trang chủ: excerpt (trích dẫn), readmore (nút đọc tiếp)
-entries_layout: grid # hoặc 'list'
+# Cấu hình phân trang: hiển thị 5 bài viết mỗi trang
+paginate: 5
+# Hiển thị bài viết dạng lưới và chiều rộng toàn trang
+entries_layout: grid
 classes: wide
 ---
