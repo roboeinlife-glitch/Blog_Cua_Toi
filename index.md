@@ -1,12 +1,15 @@
 ---
-layout: posts
-title: "Bài viết"
+layout: archive
+title: "Bài viết mới nhất"
+permalink: /
 author_profile: true
 sidebar:
   nav: "sidebar"
-# Cấu hình phân trang: hiển thị 5 bài viết mỗi trang
-paginate: 5
-# Hiển thị bài viết dạng lưới và chiều rộng toàn trang
-entries_layout: grid
 classes: wide
 ---
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
