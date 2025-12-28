@@ -9,8 +9,8 @@ remote_theme: mmistakes/minimal-mistakes
 # 👤 Cấu hình tác giả và liên kết mạng xã hội
 author:
   name: "RoboE_inlife"
-  avatar: "/assets/images/Gimball.png" # Nếu chưa có ảnh, bạn có thể đổi thành `null`
-  bio: "Chào mừng bạn đến với blog của tôi!" # Thêm dòng mô tả này
+  avatar: "/assets/images/Gimball.png"
+  bio: "Chào mừng bạn đến với blog của tôi!"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
@@ -33,13 +33,18 @@ future: true
 # 🛠️ Plugin bắt buộc cho theme Minimal Mistakes
 plugins:
   - jekyll-include-cache
-# Thêm vào cuối file _config.yml
+
+# 🌀 Cấu hình Phân trang (Pagination) - QUAN TRỌNG cho trang chủ
+paginate: 5  # Số bài viết trên mỗi trang chủ
+paginate_path: "/page:num/"  # Đường dẫn cho các trang tiếp theo (vd: /page2/)
+
+# 📄 Cấu hình mặc định cho toàn bộ bài viết
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       author_profile: true
+      layout: single
       sidebar:
-        nav: "sidebar"  
-  # Trigger rebuild - 2025/12/27
+        nav: "sidebar"
