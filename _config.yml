@@ -35,8 +35,8 @@ plugins:
   - jekyll-include-cache
 
 # 🌀 Cấu hình Phân trang (Pagination) - QUAN TRỌNG cho trang chủ
-paginate: 5  # Số bài viết trên mỗi trang chủ
-paginate_path: "/page:num/"  # Đường dẫn cho các trang tiếp theo (vd: /page2/)
+# paginate: 5  # Số bài viết trên mỗi trang chủ
+# paginate_path: "/page:num/"  # Đường dẫn cho các trang tiếp theo (vd: /page2/)
 
 # 📄 Cấu hình mặc định cho toàn bộ bài viết
 defaults:
