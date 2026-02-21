@@ -1,6 +1,10 @@
 ---
-"Giá Trị cCuar Việc Lưu Trữ Code Trên GITHUB"
-date: 2026-02-20
+title: "TẠI SAO LƯU TRỮ CODE TRÊN GITHUB LẠI QUAN TRỌNG?"
+date: 2026-02-21
+layout: single
+author_profile: true
+sidebar:
+  nav: "sidebar"
 ---
 
 Tôi không phải lập trình viên, tôi cũng không học lập trình để trở thành lập trình viên
