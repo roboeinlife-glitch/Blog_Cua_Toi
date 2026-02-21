@@ -1,6 +1,6 @@
 ---
 "Giá Trị cCuar Việc Lưu Trữ Code Trên GITHUB"
-date: 2026-02-21
+date: 2026-02-20
 ---
 
 Tôi không phải lập trình viên, tôi cũng không học lập trình để trở thành lập trình viên
