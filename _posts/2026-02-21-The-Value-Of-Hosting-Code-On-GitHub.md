@@ -1,5 +1,5 @@
 ---
-title: "GIÁ TRỊ CỦA VIẸC LƯU TRỮ CODE TRÊN GITHUB"
+title: "GIÁ TRỊ CỦA VIỆC LƯU TRỮ CODE TRÊN GITHUB"
 date: 2026-02-21
 layout: single
 author_profile: true
