@@ -25,7 +25,7 @@ Nếu bạn là người mới bắt đầu học lập trình và code C++
 Hay chỉ đơn giản giống tôi, học cách sử dụng môi trường lập trình như một công cụ để tạo hiệu ứng yêu thích
 Thì bạn có thể tham khảo ở đây: [Các chương trình C++](https://github.com/roboeinlife-glitch?tab=repositories)
 Bạn có thể nhờ AI hoặc tự phát triển thêm từ ý tưởng ban đầu của tôi
-Với chương trình [Boring](https://github.com/roboeinlife-glitch?tab=repositories]
+Với chương trình [Boring](https://github.com/roboeinlife-glitch?tab=repositories)
 
 Đôi khi, tôi nghĩ, niềm vui cũng thật giản dị - Kiểu như viết được cái blog trên GITHUB này vậy.
 Bạn không biết tôi đã vui đến mức nào đâu khi lần đầu tiên biết vào đâu để đọc được chương trình mẫu trên GITHUB
