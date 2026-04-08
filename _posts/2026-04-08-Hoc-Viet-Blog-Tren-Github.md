@@ -19,7 +19,7 @@ Mặc dù vẫn còn sơ sài vì tôi chưa quen sử dụng, nhưng mỗi khi 
 Chắc chắn rồi, tôi sẽ không quên thêm .md vào tên file cho Blog.
 Tôi biết, chức năng chính của Github là lưu trữ chương trình và là nơi để các lập trình viên siêu đẳng chia sẻ cũng như tương tác với nhau, Không phải nơi viết blog. 
 
-Tuy nhiên, vì vẫn có chức năng này trên Github nên tôi rất thích và muốn tạo một trang Blog cho bản thân - Nơi tôi có thể viết ra những suy nghĩ về những ý nghĩa của 'lập trình'  
+Tuy nhiên, vì vẫn có chức năng này trên Github nên tôi rất thích và muốn tạo một trang Blog cho bản thân - Nơi tôi có thể viết ra những suy nghĩ về những ý nghĩa của 'lập trình'.  
 Đặc biệt, cảm hứng cho những bài viết này chính là khởi đầu từ việc tôi đã đọc được một bài viết rất từ rất rất lâu rồi. Bài viết có tựa đề: Học Toán Để Làm Gì.  
 Tiếc là bây giờ tôi chưa tìm lại được bài viết. Tôi sẽ cập nhật link bài viết ấy sau này khi tôi tìm thấy.  
 Cảm ơn niềm vui nhỏ bé này <3!  
