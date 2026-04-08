@@ -22,4 +22,8 @@ Tôi biết, chức năng chính của Github là lưu trữ chương trình và
 Tuy nhiên, vì vẫn có chức năng này trên Github nên tôi rất thích và muốn tạo một trang Blog cho bản thân - Nơi tôi có thể viết ra những suy nghĩ về những ý nghĩa của 'lập trình'  
 Đặc biệt, cảm hứng cho những bài viết này chính là khởi đầu từ việc tôi đã đọc được một bài viết rất từ rất rất lâu rồi. Bài viết có tựa đề: Học Toán Để Làm Gì.  
 Tiếc là bây giờ tôi chưa tìm lại được bài viết. Tôi sẽ cập nhật link bài viết ấy sau này khi tôi tìm thấy.  
-Cảm ơn niềm vui nhỏ bé này <3!
+Cảm ơn niềm vui nhỏ bé này <3!  
+
+[Về trang chủ Blog](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/)
+
+[Về trang chủ Github RoboE](https://github.com/roboeinlife-glitch)
