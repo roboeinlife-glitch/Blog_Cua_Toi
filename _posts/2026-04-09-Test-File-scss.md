@@ -1,5 +1,5 @@
 ---
-title: "TKiểm Tra Kết Quả Sau Khi Thêm File SCSS"
+title: "Kiểm Tra Kết Quả Sau Khi Thêm File SCSS"
 date: 2026-04-09
 layout: single
 author_profile: true
