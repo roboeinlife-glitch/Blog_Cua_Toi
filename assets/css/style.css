@@ -1,9 +1,17 @@
----
----
-@import "minima";
 body {
-  font-size: 16px !important;
+  font-size: 14px !important;
+  line-height: 1.4 !important;
 }
+
 .post-content p {
-  margin-bottom: 0.75rem !important;
+  margin-bottom: 0.5rem !important;
+  line-height: 1.4 !important;
+}
+
+/* Nếu muốn chữ tiêu đề cũng nhỏ lại */
+.post-content h1 {
+  font-size: 1.6rem !important;
+}
+.post-content h2 {
+  font-size: 1.4rem !important;
 }
