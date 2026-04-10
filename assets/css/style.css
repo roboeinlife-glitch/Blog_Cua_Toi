@@ -1,11 +1,11 @@
 body {
-  font-size: 14px !important;
-  line-height: 1.4 !important;
+  font-size: 12px !important;
+  line-height: 1.2 !important;
 }
 
 .post-content p {
-  margin-bottom: 0.5rem !important;
-  line-height: 1.4 !important;
+  margin-bottom: 0.2rem !important;
+  line-height: 1.2 !important;
 }
 
 /* Nếu muốn chữ tiêu đề cũng nhỏ lại */
