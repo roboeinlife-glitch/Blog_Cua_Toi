@@ -21,7 +21,7 @@ Khuôn mặt tươi cười với ba hình trái tim rất đáng yêu phải kh
 Tuy là một bà già học gõ máy tính nhưng tôi vẫn chỉ là (hoặc già quá nên quay về) tâm trí một đứa trẻ. Tôi yêu nụ cười để những khoảng tối trong góc khuất tâm hồn được rọi sáng.  
 Tôi đã làm được điều này với sự hướng dẫn của [![DeepSeek](https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white)](https://chat.deepseek.com/)
 
-Và tất nhiên rồi, để thực hiện bài viết này không thể thiếu nền tảng quan trọng ![GitHub](https://img.shields.io/badge/GitHub-YourName-181717?logo=github&logoColor=white)
+Và tất nhiên rồi, để thực hiện bài viết này không thể thiếu nền tảng quan trọng ![GitHub](https://img.shields.io/badge/GitHub-RoboE-181717?logo=github&logoColor=white)
 
 Bây giờ mình kết thúc bài viết ở đây để kiểm tra kết quả hiển thị trên trang chủ Blog. và sẽ quay lại để sửa chữa nếu chưa đẹp.
 
