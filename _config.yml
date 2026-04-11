@@ -4,7 +4,7 @@ baseurl: "/Blog_Cua_Toi"
 url: "https://roboeinlife-glitch.github.io"
 
 # 🎨 QUAN TRỌNG: Theme hỗ trợ icon mạng xã hội
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
 
 # 👤 Cấu hình tác giả và liên kết mạng xã hội
 author:
