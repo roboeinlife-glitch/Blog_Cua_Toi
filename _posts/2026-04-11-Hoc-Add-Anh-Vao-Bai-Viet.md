@@ -10,8 +10,7 @@ sidebar:
 <div style="height: 2rem;"></div>
 
 
-Mỗi ngày học một tính năng, bài học hôm nay của tôi là cách đưa ảnh và icon đẹp vào bài viết.
-
+Mỗi ngày học một tính năng, bài học hôm nay của tôi là cách đưa ảnh và icon đẹp vào bài viết.<br>
 Đầu tiên, tôi sẽ tạo một file hình ảnh trong Repository đặt tên là [images](https://github.com/roboeinlife-glitch/Boring/tree/main/images) để lưu trữ các hình ảnh cần dùng.  
 
 Và đây là hai hình ảnh mà tôi muốn đưa vào bài viết này:<br>
