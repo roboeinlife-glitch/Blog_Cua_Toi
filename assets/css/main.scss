@@ -4,39 +4,24 @@
 
 @import "minimal-mistakes";
 
-/* RESET HOÀN TOÀN - GIỐNG TRANG "CHÀO THẾ GIỚI!" */
+/* GIỐNG HỆT TRANG "CHÀO THẾ GIỚI!" - ĐỂ TRÌNH DUYỆT TỰ QUYẾT ĐỊNH */
 body {
-  font-family: Georgia, Times, "Times New Roman", serif !important;
-  font-size: 16px !important;      /* Tăng từ 14px lên 16px */
+  font-family: inherit !important;  /* QUAN TRỌNG: Để trình duyệt tự chọn font */
+  font-size: 16px !important;
   line-height: 1.5 !important;
   color: #333 !important;
-  letter-spacing: normal !important; /* QUAN TRỌNG: Xóa khoảng cách chữ */
 }
 
-/* Áp dụng cho toàn bộ nội dung bài viết */
+/* KHÔNG ghi đè font-family ở bất cứ đâu khác */
 .page__content {
-  font-size: 1rem !important;      /* 16px */
-  letter-spacing: normal !important;
+  font-family: inherit !important;
 }
 
-/* TẤT CẢ các thẻ văn bản đều phải xóa letter-spacing */
-.page__content p,
-.page__content h1,
-.page__content h2,
-.page__content h3,
-.page__content li,
-.page__content span,
-.page__content div {
-  letter-spacing: normal !important;
-}
-
-/* Khoảng cách giữa các đoạn văn */
 .page__content p {
   margin-bottom: 0.94rem !important;  /* 15px */
   line-height: inherit !important;
 }
 
-/* Tiêu đề H1 */
 .page__content h1 {
   font-size: 2rem !important;
   margin-bottom: 1.2rem !important;
@@ -45,7 +30,6 @@ body {
   font-weight: 700 !important;
 }
 
-/* Tiêu đề H2 */
 .page__content h2 {
   font-size: 1.6rem !important;
   margin-top: 1.8rem !important;
@@ -53,22 +37,8 @@ body {
   font-weight: 600 !important;
 }
 
-/* Tiêu đề H3 */
-.page__content h3 {
-  font-size: 1.35rem !important;
-  margin-top: 1.5rem !important;
-  margin-bottom: 0.6rem !important;
-  font-weight: 600 !important;
-}
-
-/* Danh sách */
 .page__content ul, 
 .page__content ol {
   margin-bottom: 0.94rem !important;
   padding-left: 1.8rem !important;
-}
-
-.page__content li {
-  margin-bottom: 0.25rem !important;
-  line-height: inherit !important;
 }
