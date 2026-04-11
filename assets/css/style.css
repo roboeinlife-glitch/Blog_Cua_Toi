@@ -3,22 +3,23 @@ body {
   line-height: 1.2 !important;
 }
 
-.post-content p {
+/* Theme Minimal Mistakes dùng .page__content thay vì .post-content */
+.page__content p {
   margin-bottom: 0.2rem !important;
   line-height: 1.2 !important;
 }
 
-/* Nếu muốn chữ tiêu đề cũng nhỏ lại */
-.post-content h1 {
+.page__content h1 {
   font-size: 1.6rem !important;
-  margin-bottom: 1.2rem !important;  /* Tạo khoảng cách dưới tiêu đề */
+  margin-bottom: 1.5rem !important;  /* Tạo khoảng cách dưới tiêu đề */
 }
-.post-content h2 {
+
+.page__content h2 {
   font-size: 1.4rem !important;
   margin-bottom: 1rem !important;
 }
 
-/* Tạo khoảng cách cho mọi phần tử đầu tiên sau tiêu đề */
-.post-content h1 + * {
+/* Tạo khoảng cách cho phần tử đầu tiên sau tiêu đề */
+.page__content h1 + * {
   margin-top: 0.8rem !important;
 }
