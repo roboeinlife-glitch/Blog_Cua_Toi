@@ -1,92 +1,62 @@
 /* ============================================
-   RESET & CƠ BẢN
+   GIỐNG HỆT TRANG "CHÀO THẾ GIỚI!"
    ============================================ */
 
-/* Đặt cỡ chữ nền tảng thoải mái, dễ đọc như trang "Chào Thế Giới!" */
+/* Quan trọng: KHÔNG đụng vào font-size của body */
+/* Để nguyên như trang mục tiêu, không có dòng font-size nào ở body */
+
+/* Chỉ điều chỉnh khoảng cách dòng cơ bản */
 body {
-  font-size: 18px !important;      /* Cỡ chữ cơ bản, bạn có thể tăng/giảm giá trị này */
-  line-height: 1.65 !important;    /* Khoảng cách dòng lý tưởng cho việc đọc */
-  color: #222;                     /* Màu chữ đen mềm, không quá tương phản */
+  line-height: 1.5 !important;
 }
 
 /* ============================================
-   NỘI DUNG CHÍNH (Áp dụng cho bài viết)
+   KHOẢNG CÁCH GIỮA CÁC ĐOẠN VĂN (p)
    ============================================ */
 
-/* Đảm bảo mọi chữ trong bài viết đều theo cỡ đã đặt */
-.page__content {
-  font-size: 1rem !important;      /* 1rem = 18px (bằng với body) */
-  line-height: inherit !important; /* Kế thừa line-height 1.65 từ body */
-}
-
-/* Các đoạn văn */
 .page__content p {
-  margin-bottom: 1.2rem !important;  /* Khoảng cách giữa các đoạn */
+  margin-top: 0 !important;
+  margin-bottom: 0.94rem !important;  /* 15px khi trình duyệt cỡ chữ 16px */
   line-height: inherit !important;
 }
 
-/* TIÊU ĐỀ H1 (tiêu đề bài viết) */
+/* ============================================
+   TIÊU ĐỀ H1 (giữ nguyên style đẹp)
+   ============================================ */
+
 .page__content h1 {
-  font-size: 2rem !important;        /* To hơn bình thường (~36px) */
+  font-size: 2rem !important;
   font-weight: 700 !important;
-  margin-top: 0 !important;
-  margin-bottom: 1.2rem !important;  /* Tạo khoảng cách rõ rệt xuống nội dung */
-  border-bottom: 1px solid #eaecef;  /* Thêm đường kẻ nhẹ bên dưới cho đẹp */
+  margin-bottom: 1.2rem !important;
+  border-bottom: 1px solid #eaecef;
   padding-bottom: 0.4rem;
 }
 
-/* TIÊU ĐỀ H2 */
+/* ============================================
+   TIÊU ĐỀ H2, H3
+   ============================================ */
+
 .page__content h2 {
-  font-size: 1.6rem !important;      /* ~29px */
+  font-size: 1.6rem !important;
   font-weight: 600 !important;
   margin-top: 1.8rem !important;
   margin-bottom: 0.8rem !important;
 }
 
-/* TIÊU ĐỀ H3 */
 .page__content h3 {
-  font-size: 1.35rem !important;     /* ~24px */
+  font-size: 1.35rem !important;
   font-weight: 600 !important;
   margin-top: 1.5rem !important;
   margin-bottom: 0.6rem !important;
 }
 
 /* ============================================
-   SỬA LỖI KHOẢNG CÁCH ĐẶC BIỆT
-   (Đảm bảo nội dung không dính vào tiêu đề)
+   DANH SÁCH
    ============================================ */
 
-/* Phần tử đầu tiên ngay sau tiêu đề H1 sẽ có khoảng cách phía trên */
-.page__content h1 + * {
-  margin-top: 0.8rem !important;
-}
-
-/* Phần tử đầu tiên ngay sau tiêu đề H2 */
-.page__content h2 + * {
-  margin-top: 0.5rem !important;
-}
-
-/* ============================================
-   DANH SÁCH (UL/OL) - Nếu có
-   ============================================ */
 .page__content ul, 
 .page__content ol {
   margin-top: 0.5rem !important;
-  margin-bottom: 1.2rem !important;
+  margin-bottom: 0.94rem !important;
   padding-left: 1.8rem !important;
-  line-height: inherit !important;
-}
-
-.page__content li {
-  margin-bottom: 0.3rem !important;
-}
-
-/* ============================================
-   CODE (Nếu bạn có chèn code)
-   ============================================ */
-.page__content pre,
-.page__content code {
-  font-size: 0.9rem !important;   /* Chữ code nhỉnh nhỏ hơn một chút */
-  background-color: #f6f8fa;
-  border-radius: 3px;
 }
