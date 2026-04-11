@@ -1,5 +1,5 @@
 ---
-title: "Giá Trị Của Việc Lưu Trữ Ccode Trên Github"
+title: "Giá Trị Của Việc Lưu Trữ Code Trên Github"
 date: 2026-02-21
 layout: single
 author_profile: true
@@ -8,7 +8,7 @@ sidebar:
 ---
 
 
-
+<br><br><br>
 Tôi không phải lập trình viên, tôi cũng không học lập trình để trở thành lập trình viên.<br>
 Chỉ là tôi có một cái máy tính cũ, trong đó có cài sẵn CODE::BLOCKS, tôi tập sử dụng và nhờ AI viết hộ các chương trình tạo hiệu ứng mà tôi thích.<br>
 Trước đây, để hoàn thiện hay phát triển một chương trình tôi cần copy chương trình từ trong máy dán lên cửa sổ trò chuyện của AI để AI đọc được code.<br>
