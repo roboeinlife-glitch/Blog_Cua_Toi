@@ -9,7 +9,8 @@ sidebar:
 <br><br><br>
 Xin chào mọi người!
 
-Hôm nay là ngày thứ hai tôi làm quen với **Jekyll** và **GitHub Pages**. Sau một ngày "vật lộn" đầy thú vị cùng người bạn hỗ trợ, cuối cùng tôi cũng đã có một blog cá nhân ưng ý.
+Hôm nay là ngày thứ hai tôi làm quen với **Jekyll** và **GitHub Pages**.<br> 
+Sau một ngày "vật lộn" đầy thú vị cùng người bạn hỗ trợ, cuối cùng tôi cũng đã có một blog cá nhân ưng ý.
 
 ## Những điều tôi đã học được<br>
 1. **Cấu hình `_config.yml`** là trái tim của blog.<br>
