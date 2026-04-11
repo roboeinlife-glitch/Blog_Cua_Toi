@@ -1,12 +1,11 @@
 ---
-
-title: "Học Cách Add Ảnh Vào Bài Viết trên GitHub"
+title: "Học Cách Đưa Ảnh Vào Bài Viết Trên Github"
 date: 2026-04-11
 layout: single
 author_profile: true
 sidebar:
   nav: "sidebar"
-  ---
+---
 
 
 Mỗi ngày học một tính năng, bài học hôm nay của tôi là cách add ảnh và icon đẹp vào bài viết.
