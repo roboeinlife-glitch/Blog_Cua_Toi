@@ -29,6 +29,6 @@ Tôi đã làm được điều này với sự hướng dẫn của [![DeepSeek
 Và tất nhiên rồi, để thực hiện bài viết này không thể thiếu nền tảng quan trọng ![GitHub](https://img.shields.io/badge/GitHub-RoboE-181717?logo=github&logoColor=white)
 
 Bây giờ tôi kết thúc bài viết ở đây để kiểm tra kết quả hiển thị trên trang chủ Blog, và sẽ quay lại để sửa chữa nếu chưa đẹp.<br>
-Cảm ơn góc nhỏ bí mật mà công khai này, nơi tôi có thể viết ra những suy nghĩ của mình mà không cần phải ai biết hay biết ai. 
+Cảm ơn góc nhỏ bí mật mà công khai này, nơi tôi có thể viết ra những suy nghĩ của mình mà không cần phải ai biết hay biết ai.<br> 
 [Về trang chủ Blog](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/)<br>
 [Về trang chủ Github RoboE](https://github.com/roboeinlife-glitch)
