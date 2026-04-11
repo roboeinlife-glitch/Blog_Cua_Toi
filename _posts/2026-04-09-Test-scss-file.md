@@ -6,7 +6,7 @@ author_profile: true
 sidebar:
   nav: "sidebar"
 ---
-
+<div style="margin-top: 2rem;"></div>
 
 
 Hôm nay, tôi viết bài này, để kiểm tra kết quả sau khi đã thêm fle [scss](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/assets/css/style.scss)  
