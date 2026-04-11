@@ -1,0 +1,36 @@
+---
+# Đây là front matter bắt buộc, để trống cũng được
+---
+
+@import "minimal-mistakes";
+
+/* GHI ĐÈ CSS CỦA THEME - GIỐNG TRANG "CHÀO THẾ GIỚI!" */
+body {
+  font-family: Georgia, Times, "Times New Roman", serif !important;
+  font-size: 16px !important;
+  line-height: 1.5 !important;
+  color: #333 !important;
+}
+
+.page__content p {
+  margin-bottom: 0.94rem !important;  /* 15px */
+  line-height: inherit !important;
+}
+
+.page__content h1 {
+  font-size: 2rem !important;
+  margin-bottom: 1.2rem !important;
+  border-bottom: 1px solid #eaecef !important;
+  padding-bottom: 0.4rem !important;
+}
+
+.page__content h2 {
+  font-size: 1.6rem !important;
+  margin-top: 1.8rem !important;
+  margin-bottom: 0.8rem !important;
+}
+
+.page__content ul, 
+.page__content ol {
+  margin-bottom: 0.94rem !important;
+}
