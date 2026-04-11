@@ -1,41 +1,38 @@
 /* ============================================
-   GIỐNG HỆT TRANG "CHÀO THẾ GIỚI!"
+   SAO CHÉP GIAO DIỆN TRANG "CHÀO THẾ GIỚI!"
    ============================================ */
 
-/* Quan trọng: KHÔNG đụng vào font-size của body */
-/* Để nguyên như trang mục tiêu, không có dòng font-size nào ở body */
-
-/* Chỉ điều chỉnh khoảng cách dòng cơ bản */
+/* Font chữ và cỡ chữ mặc định như trang mẫu */
 body {
+  font-family: Georgia, Times, "Times New Roman", serif !important;
+  font-size: 16px !important;  /* Cỡ chữ mặc định của trình duyệt */
   line-height: 1.5 !important;
+  color: #333;
 }
 
-/* ============================================
-   KHOẢNG CÁCH GIỮA CÁC ĐOẠN VĂN (p)
-   ============================================ */
+/* Nội dung bài viết chính */
+.page__content {
+  font-family: inherit !important;
+  font-size: 1rem !important;  /* 16px */
+}
 
+/* Khoảng cách giữa các đoạn văn - QUAN TRỌNG NHẤT */
 .page__content p {
-  margin-top: 0 !important;
-  margin-bottom: 0.94rem !important;  /* 15px khi trình duyệt cỡ chữ 16px */
+  margin-bottom: 0.94rem !important;  /* 15px giống trang mẫu */
   line-height: inherit !important;
 }
 
-/* ============================================
-   TIÊU ĐỀ H1 (giữ nguyên style đẹp)
-   ============================================ */
-
+/* Tiêu đề H1 */
 .page__content h1 {
   font-size: 2rem !important;
   font-weight: 700 !important;
   margin-bottom: 1.2rem !important;
   border-bottom: 1px solid #eaecef;
   padding-bottom: 0.4rem;
+  font-family: inherit !important;
 }
 
-/* ============================================
-   TIÊU ĐỀ H2, H3
-   ============================================ */
-
+/* Tiêu đề H2 */
 .page__content h2 {
   font-size: 1.6rem !important;
   font-weight: 600 !important;
@@ -43,6 +40,7 @@ body {
   margin-bottom: 0.8rem !important;
 }
 
+/* Tiêu đề H3 */
 .page__content h3 {
   font-size: 1.35rem !important;
   font-weight: 600 !important;
@@ -50,13 +48,15 @@ body {
   margin-bottom: 0.6rem !important;
 }
 
-/* ============================================
-   DANH SÁCH
-   ============================================ */
-
+/* Danh sách */
 .page__content ul, 
 .page__content ol {
   margin-top: 0.5rem !important;
   margin-bottom: 0.94rem !important;
   padding-left: 1.8rem !important;
+}
+
+.page__content li {
+  margin-bottom: 0.25rem !important;
+  line-height: inherit !important;
 }
