@@ -88,7 +88,7 @@ Tôi không phải lập trình viên, mới học cách sử dụng GitHub lầ
 Rất mong nhận được sự lượng thứ từ các bạn nếu tình cờ đọc được bài viết này.
 
 **Cảm ơn** [![Chat](https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white)](https://chat.deepseek.com/) đã hỗ trợ tôi rất nhiều!<br>  
-**Cảm ơn** ![GitHub](https://img.shields.io/badge/GitHub-YourName-181717?logo=github&logoColor=white) đã tạo ra nền tảng tiện ích này và cho phép người dùng sử dụng một cách hữu ích!
+**Cảm ơn** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) đã tạo ra nền tảng tiện ích này và cho phép người dùng sử dụng một cách hữu ích!
 
 [Về trang chủ Blog](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/)  
 [Về trang chủ GitHub RoboE](https://github.com/roboeinlife-glitch)
