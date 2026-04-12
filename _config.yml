@@ -48,7 +48,9 @@ defaults:
       layout: single
       sidebar:
         nav: "sidebar"
-        # Giscus comments configuration
+      comments: true  # <--- THÊM DÒNG NÀY để bật comments cho TẤT CẢ bài viết
+
+# 🗣️ Cấu hình Giscus Comments (ĐẶT NGANG HÀNG với defaults)
 comments:
   provider: "giscus"
   giscus:
