@@ -43,10 +43,10 @@ body {
   padding-left: 1.8rem !important;
 }
 
-/* ===================== */
-/* ẨN TIÊU ĐỀ TRÙNG LẶP TRÊN TRANG BÀI VIẾT */
-/* ===================== */
-.page__inner-wrap > header,
-.page__title {
+/* Bản mạnh - ẩn tất cả tiêu đề trong vùng chứa bài viết */
+.page__inner-wrap header,
+article.page header,
+.page__title,
+.page__inner-wrap .page__title {
   display: none !important;
 }
