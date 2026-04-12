@@ -43,10 +43,18 @@ body {
   padding-left: 1.8rem !important;
 }
 
-/* Bản mạnh - ẩn tất cả tiêu đề trong vùng chứa bài viết */
+/* ========== GIẢI PHÁP TỔNG THỂ: ẨN TẤT CẢ TIÊU ĐỀ TRÙNG LẶP ========== */
+/* Ẩn tiêu đề tự động của theme */
 .page__inner-wrap header,
 article.page header,
 .page__title,
-.page__inner-wrap .page__title {
+.page__inner-wrap .page__title,
+.page__meta .page__meta-title {
+  display: none !important;
+}
+
+/* Ẩn tiêu đề cấp 1 đầu tiên trong nội dung bài viết nếu nó giống với tiêu đề của trang */
+/* Cách này an toàn: chỉ ẩn H1 đầu tiên trong nội dung, vẫn giữ các H1 khác nếu có */
+.page__content > h1:first-of-type {
   display: none !important;
 }
