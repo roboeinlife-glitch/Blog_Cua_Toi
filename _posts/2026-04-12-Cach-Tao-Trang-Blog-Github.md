@@ -9,7 +9,7 @@ sidebar:
 
 <div style="height: 2rem;"></div>
 
-Hôm nay, ngày 11/04/2026, tôi rất vui mừng viết ra những dòng chữ này vì tôi đã có một trang blog đẹp, dịu dàng và tươi sáng cho riêng mình.<br>
+Hôm nay, ngày 12/04/2026, tôi rất vui mừng viết ra những dòng chữ này vì tôi đã có một trang blog đẹp, dịu dàng và tươi sáng cho riêng mình.<br>
 Để việc này trở nên có ý nghĩa, tôi sẽ chia sẻ cách tôi đã nhờ DeepSeek giúp tạo ra trang [Blog](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/) cá nhân tuyệt vời này.
 
 **Cách thứ nhất**: Fork repository Jekyll có sẵn
@@ -85,7 +85,8 @@ Sau khi tạo xong các file cấu hình, việc còn lại rất đơn giản:
 
 **Lưu ý:** <br> 
 Tôi không phải lập trình viên, mới học cách sử dụng GitHub lần đầu, tất cả nhờ vào sự hướng dẫn của DeepSeek nên không tránh khỏi thiếu sót.<br>  
-Rất mong nhận được sự lượng thứ từ các bạn nếu tình cờ đọc được bài viết này.
+Rất mong nhận được sự lượng thứ từ các bạn nếu tình cờ đọc được bài viết này.<br>
+À, hôm nay tôi đã học cách tạo được bình luận cho bài viết, tôi đã rất vui mừng. Có lẽ tôi sẽ chia sẻ cách làm trong bài viết tiếp theo.
 
 **Cảm ơn** [![Chat](https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white)](https://chat.deepseek.com/) đã hỗ trợ tôi rất nhiều!<br>  
 **Cảm ơn** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) đã tạo ra nền tảng tiện ích này và cho phép người dùng sử dụng một cách hữu ích!
