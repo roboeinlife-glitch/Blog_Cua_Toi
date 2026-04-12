@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{% include page__hero.html %}
+{% include breadcrumbs.html %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    <div class="page__inner-wrap">
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
+
+      <!-- PHẦN BÌNH LUẬN GISCUS - DÁN CODE NGAY SAU NỘI DUNG BÀI VIẾT -->
+      <div class="page__comments">
+        <script src="https://giscus.app/client.js"
+          data-repo="roboeinlife-glitch/Blog_Cua_Toi"
+          data-repo-id="R_kgDOQvix-g"
+          data-category="Announcements"
+          data-category-id="DIC_kwDOQvix-s4C6qRD"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="preferred_color_scheme"
+          data-lang="vi"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </div>
+
+      <footer class="page__meta">
+        {% include page__meta.html %}
+      </footer>
+    </div>
+  </article>
+</div>
