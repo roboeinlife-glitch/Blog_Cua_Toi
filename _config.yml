@@ -67,3 +67,10 @@ giscus:
   input_position: "bottom"
   theme: "preferred_color_scheme"
   lang: "vi"
+  # Ẩn tiêu đề trùng lặp trên các trang bài viết
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      show_title: false
