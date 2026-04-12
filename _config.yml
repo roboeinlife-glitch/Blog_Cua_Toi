@@ -48,29 +48,19 @@ defaults:
       layout: single
       sidebar:
         nav: "sidebar"
-      comments: true  # <--- BẬT comments cho TẤT CẢ bài viết
+      comments: true          # Bật comments cho tất cả bài posts
+      show_title: false       # ✅ THÊM DÒNG NÀY ĐỂ ẨN TIÊU ĐỀ TRÙNG LẶP
 
-# 🗣️ CẤU HÌNH GISCUS (ĐÃ ĐƯỢC SỬA THEO ĐÚNG CHUẨN CỦA MINIMAL MISTAKES)
-# Tham khảo: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#giscus-comments
+# 🗣️ CẤU HÌNH GISCUS
 giscus:
-  # Repository configuration
   repo: "roboeinlife-glitch/Blog_Cua_Toi"
   repo_id: "R_kgDOQvix-g"
   category: "Announcements"
   category_id: "DIC_kwDOQvix-s4C6qRD"
-  # Discussion mapping
   mapping: "pathname"
-  # Other options
   strict: "0"
   reactions_enabled: "1"
   emit_metadata: "0"
   input_position: "bottom"
   theme: "preferred_color_scheme"
   lang: "vi"
-  # Ẩn tiêu đề trùng lặp trên các trang bài viết
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      show_title: false
