@@ -49,7 +49,6 @@ defaults:
       sidebar:
         nav: "sidebar"
       comments: true
-      show_title: false
       breadcrumbs: false
 # 🗣️ CẤU HÌNH GISCUS
 giscus:
