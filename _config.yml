@@ -39,7 +39,7 @@ plugins:
 # paginate_path: "/page:num/"  # Đường dẫn cho các trang tiếp theo (vd: /page2/)
 
 # 📄 Cấu hình mặc định cho toàn bộ bài viết
-defaults:
+ddefaults:
   - scope:
       path: ""
       type: "posts"
@@ -48,9 +48,9 @@ defaults:
       layout: single
       sidebar:
         nav: "sidebar"
-      comments: true          # Bật comments cho tất cả bài posts
-      show_title: false       # ✅ THÊM DÒNG NÀY ĐỂ ẨN TIÊU ĐỀ TRÙNG LẶP
-
+      comments: true
+      show_title: false
+      breadcrumbs: false   # <--- THÊM DÒNG NÀY
 # 🗣️ CẤU HÌNH GISCUS
 giscus:
   repo: "roboeinlife-glitch/Blog_Cua_Toi"
