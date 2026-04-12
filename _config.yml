@@ -48,3 +48,18 @@ defaults:
       layout: single
       sidebar:
         nav: "sidebar"
+        # Giscus comments configuration
+comments:
+  provider: "giscus"
+  giscus:
+    repo: "roboeinlife-glitch/Blog_Cua_Toi"
+    repo_id: "R_kgDOQvix-g"
+    category: "Announcements"
+    category_id: "DIC_kwDOQvix-s4C6qRD"
+    mapping: "pathname"
+    strict: "0"
+    reactions_enabled: "1"
+    emit_metadata: "0"
+    input_position: "bottom"
+    theme: "preferred_color_scheme"
+    lang: "vi"
