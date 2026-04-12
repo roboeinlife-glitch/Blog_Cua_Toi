@@ -10,10 +10,10 @@ layout: default
 
 <div id="main" role="main">
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <!-- LOẠI BỎ HOÀN TOÀN BREADCRUMB Ở ĐÂY -->
-    
-    <!-- GIỮ NGUYÊN PHẦN TIÊU ĐỀ TRANG -->
-    {% if page.title and page.show_title != false %}
+    <!-- LOẠI BỎ BREADCRUMB: Không include file breadcrumbs.html -->
+
+    <!-- HIỂN THỊ TIÊU ĐỀ BÀI VIẾT (ĐÃ ĐƯỢC SỬA LẠI) -->
+    {% if page.title %}
       <div class="page__title">
         <h1 id="page-title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
       </div>
@@ -35,11 +35,10 @@ layout: default
 
     {% include post_pagination.html %}
 
-    <!-- PHẦN BÌNH LUẬN - ĐÃ ĐƯỢC THÊM LẠI -->
-    {% if page.comments and site.giscus.repo %}
-      <div class="page__comments">
-        {% include comments.html %}
-      </div>
-    {% endif %}
+    <!-- PHẦN BÌNH LUẬN (LUÔN HIỂN THỊ ĐỂ KIỂM TRA, BỎ QUA ĐIỀU KIỆN) -->
+    <div class="page__comments">
+      {% include comments.html %}
+    </div>
+
   </article>
 </div>
