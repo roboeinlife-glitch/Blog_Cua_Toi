@@ -1,6 +1,5 @@
 ---
 layout: default
-hide_title: true
 ---
 
 {% include page__hero.html %}
@@ -10,13 +9,12 @@ hide_title: true
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     <div class="page__inner-wrap">
       <section class="page__content" itemprop="text">
         {{ content }}
       </section>
 
-      <!-- PHẦN BÌNH LUẬN GISCUS - DÁN CODE NGAY SAU NỘI DUNG BÀI VIẾT -->
+      <!-- PHẦN BÌNH LUẬN GISCUS -->
       <div class="page__comments">
         <script src="https://giscus.app/client.js"
           data-repo="roboeinlife-glitch/Blog_Cua_Toi"
