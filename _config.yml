@@ -48,20 +48,22 @@ defaults:
       layout: single
       sidebar:
         nav: "sidebar"
-      comments: true  # <--- THÊM DÒNG NÀY để bật comments cho TẤT CẢ bài viết
+      comments: true  # <--- BẬT comments cho TẤT CẢ bài viết
 
-# 🗣️ Cấu hình Giscus Comments (ĐẶT NGANG HÀNG với defaults)
-comments:
-  provider: "giscus"
-  giscus:
-    repo: "roboeinlife-glitch/Blog_Cua_Toi"
-    repo_id: "R_kgDOQvix-g"
-    category: "Announcements"
-    category_id: "DIC_kwDOQvix-s4C6qRD"
-    mapping: "pathname"
-    strict: "0"
-    reactions_enabled: "1"
-    emit_metadata: "0"
-    input_position: "bottom"
-    theme: "preferred_color_scheme"
-    lang: "vi"
+# 🗣️ CẤU HÌNH GISCUS (ĐÃ ĐƯỢC SỬA THEO ĐÚNG CHUẨN CỦA MINIMAL MISTAKES)
+# Tham khảo: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#giscus-comments
+giscus:
+  # Repository configuration
+  repo: "roboeinlife-glitch/Blog_Cua_Toi"
+  repo_id: "R_kgDOQvix-g"
+  category: "Announcements"
+  category_id: "DIC_kwDOQvix-s4C6qRD"
+  # Discussion mapping
+  mapping: "pathname"
+  # Other options
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: "bottom"
+  theme: "preferred_color_scheme"
+  lang: "vi"
