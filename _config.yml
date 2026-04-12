@@ -3,10 +3,8 @@ description: "Nơi chia sẻ những điều thú vị"
 baseurl: "/Blog_Cua_Toi"
 url: "https://roboeinlife-glitch.github.io"
 
-# 🎨 QUAN TRỌNG: Theme hỗ trợ icon mạng xã hội
 remote_theme: mmistakes/minimal-mistakes
 
-# 👤 Cấu hình tác giả và liên kết mạng xã hội
 author:
   name: "RoboE_inlife"
   avatar: "/assets/images/Gimball.png"
@@ -22,7 +20,6 @@ author:
       icon: "fab fa-twitter"
       url: "https://x.com/roboe_inlife"
 
-# ⚙️ Các cài đặt kỹ thuật khác
 show_downloads: true
 permalink: /:year/:month/:day/:title:output_ext
 markdown: kramdown
@@ -30,27 +27,22 @@ highlighter: rouge
 timezone: Asia/Ho_Chi_Minh
 future: true
 
-# 🛠️ Plugin bắt buộc cho theme Minimal Mistakes
 plugins:
   - jekyll-include-cache
 
-# 🌀 Cấu hình Phân trang (Pagination) - QUAN TRỌNG cho trang chủ
-# paginate: 5  # Số bài viết trên mỗi trang chủ
-# paginate_path: "/page:num/"  # Đường dẫn cho các trang tiếp theo (vd: /page2/)
-
-# 📄 Cấu hình mặc định cho toàn bộ bài viết
+# Cấu hình mặc định cho bài viết
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
-      author_profile: true
       layout: single
+      author_profile: true
+      comments: true
       sidebar:
         nav: "sidebar"
-      comments: true
-      breadcrumbs: false
-# 🗣️ CẤU HÌNH GISCUS
+
+# Cấu hình Giscus comments
 giscus:
   repo: "roboeinlife-glitch/Blog_Cua_Toi"
   repo_id: "R_kgDOQvix-g"
