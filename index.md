@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Trang chủ"
+title: ""
 author_profile: true
 sidebar:
   nav: "sidebar"
