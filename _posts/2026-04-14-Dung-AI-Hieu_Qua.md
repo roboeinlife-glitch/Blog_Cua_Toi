@@ -9,12 +9,12 @@ sidebar:
 <br><br><br>
 Hôm nay ngày 14 tháng tư năm 2026, tôi lại viết blog chia sẻ kinh nghiệm sử dụng AI hiệu quả.<br>
 Phải nhắc lại cho rõ rằng tôi không biết lập trình, học sử dụng môi trường lập trình là để nhờ AI tạo ra những hiệu ứng nhằm diễn đạt ý nghĩ (mặc dù đã có các ứng dụng tạo video từ hình ảnh và lời nhắc nhưng cần trả phí mà tôi lại không có tiền) <br>
-Rôi tôi biết có Github là nơi lưu trữ chương trình đã tạo rất tiện ích như đã viết trong bài: [Tôi Dùng GITHUB Để Làm Gì?](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/2026/01/28/Dung-GITHUB-Lam-Gi.html)
+Rồi tôi biết có Github là nơi lưu trữ chương trình đã tạo rất tiện ích như đã viết trong bài: [Tôi Dùng GITHUB Để Làm Gì?](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/2026/01/28/Dung-GITHUB-Lam-Gi.html)
 
-Sau khi đã tạo được một trang Blog tuyệt đẹp mà tôi rất yêu thích rồi thì được biết có thể tạo thêm chức năng bình luận cho bài viết. Thế là tôi lại nhờ `**DeepSeek**` hướng dẫn. <br>
-Tuy nhiên, blog của tôi không phải được fork lại từ chương trình chuẩn của lập trình viên chuyên nghiệp mà là nhờ `**DeepSeek**` hướng dẫn cấu hình, thế nên, mặc dù đã thực hiện theo trình tự nhưng chức năng bình luận vẫn chưa hiện thị cuối bài viết.<br>
+Sau khi đã tạo được một trang Blog tuyệt đẹp mà tôi rất yêu thích rồi thì được biết có thể tạo thêm chức năng bình luận cho bài viết. Thế là tôi lại nhờ **DeepSeek** hướng dẫn. <br>
+Tuy nhiên, blog của tôi không phải được fork lại từ chương trình chuẩn của lập trình viên chuyên nghiệp mà là nhờ **DeepSeek** hướng dẫn cấu hình, thế nên, mặc dù đã thực hiện theo trình tự nhưng chức năng bình luận vẫn chưa hiện thị cuối bài viết.<br>
 
-Tôi đã gửi tất cả nội dung các file trong Repository Blog để `**DeepSeek**` kiểm tra, tìm hiểu xem lỗi do đâu.<br>
+Tôi đã gửi tất cả nội dung các file trong Repository Blog để **DeepSeek** kiểm tra, tìm hiểu xem lỗi do đâu.<br>
 Sau khi đọc hết các file, **DeepSeek** đã cho tôi phương án giải quyết - thêm bớt, thay thế các mã lệnh (code) trong tất cả các file cấu hình:
 
 1, **_Includes** <br>
