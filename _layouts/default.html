@@ -6,7 +6,7 @@
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" itemscope itemtype="https://schema.org/WebPage">
-        <!-- {% include browser-upgrade.html %} -->
+        {% comment %}{% include browser-upgrade.html %}{% endcomment %}
     {% include masthead.html %}
 
     <div class="initial-content">
