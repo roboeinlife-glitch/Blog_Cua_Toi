@@ -1,7 +1,7 @@
 // Chỉ thêm avatar trên trang bài viết (single post)
 document.addEventListener('DOMContentLoaded', function() {
   // Kiểm tra xem có phải trang bài viết không (dựa vào class 'single' của body)
-  if (document.body.classList.contains('single')) {
+  if (document.body.classList.contains('layout--single')) {
     // Tìm header chứa chữ "Blog của RoboE"
     var masthead = document.querySelector('.masthead__inner-wrap');
     if (masthead) {
