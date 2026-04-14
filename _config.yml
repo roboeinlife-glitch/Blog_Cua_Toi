@@ -37,10 +37,7 @@ defaults:
       type: "posts"
     values:
       layout: single
-      author_profile: true
-      comments: true
-      sidebar:
-        nav: "sidebar"
+      author_profile: true    # ĐỔI THÀNH true
 
 # Cấu hình Giscus comments
 giscus:
