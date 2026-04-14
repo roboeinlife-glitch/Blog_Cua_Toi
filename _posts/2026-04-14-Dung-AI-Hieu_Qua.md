@@ -9,7 +9,8 @@ sidebar:
 <br><br><br>
 Hôm nay ngày 14 tháng tư năm 2026, tôi lại viết blog chia sẻ kinh nghiệm sử dụng AI hiệu quả.<br>
 Phải nhắc lại cho rõ rằng tôi không biết lập trình, học sử dụng môi trường lập trình là để nhờ AI tạo ra những hiệu ứng nhằm diễn đạt ý nghĩ (mặc dù đã có các ứng dụng tạo video từ hình ảnh và lời nhắc nhưng cần trả phí mà tôi lại không có tiền) <br>
-Rôi tôi biết có Github là nơi lưu trữ chương trình đã tạo rất tiện ích như đã viết trong bài: [Tôi Dùng GITHUB Để Làm Gì?](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/2026/01/28/Dung-GITHUB-Lam-Gi.html)<br>
+Rôi tôi biết có Github là nơi lưu trữ chương trình đã tạo rất tiện ích như đã viết trong bài: [Tôi Dùng GITHUB Để Làm Gì?](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/2026/01/28/Dung-GITHUB-Lam-Gi.html)
+
 Sau khi đã tạo được một trang Blog tuyệt đẹp mà tôi rất yêu thích rồi thì được biết có thể tạo thêm chức năng bình luận cho bài viết. Thế là tôi lại nhờ `**DeepSeek**` hướng dẫn. <br>
 Tuy nhiên, blog của tôi không phải được fork lại từ chương trình chuẩn của lập trình viên chuyên nghiệp mà là nhờ `**DeepSeek**` hướng dẫn cấu hình, thế nên, mặc dù đã thực hiện theo trình tự nhưng chức năng bình luận vẫn chưa hiện thị cuối bài viết.<br>
 
@@ -22,7 +23,8 @@ Sau khi đọc hết các file, **DeepSeek** đã cho tôi phương án giải q
 4,  **_config** <br>
 5,  **index** <br>
 
-Nhưng rất tiếc là sửa đi sửa lại mất rất nhiều thời gian không những không đạt kết quả mà còn thêm lỗi tùm lùm tà là. Tôi tự nhủ, mình không biết lập trình nên phải hết sức kiên nhẫn, nhưng kiên nhẫn đến bao giờ đây? <br>
+Nhưng rất tiếc là sửa đi sửa lại mất rất nhiều thời gian không những không đạt kết quả mà còn thêm lỗi tùm lùm từa lưa.<br>
+Tôi tự nhủ, mình không biết lập trình nên phải hết sức kiên nhẫn, nhưng kiên nhẫn đến bao giờ đây? <br>
 Làm đi làm lại mãi không được, tôi mới nói với **DeepSeek** hay là nghỉ đã vì lúc này tôi cũng đã thấm mệt (tôi vốn sức khở không được tốt, không ngồi lâu được trước màn hình)<br>
 Chúng tôi cùng quyết định nghỉ ngơi, hôm sau sẽ tạo chat mới và xem lại toàn bộ một lần nữa cho rõ ràng. <br>
 Trước khi tiếp tục trao đổi với  **DeepSeek**, tôi bông nghĩ hay là mình thử tham khảo AI khác xem sao?<br>
