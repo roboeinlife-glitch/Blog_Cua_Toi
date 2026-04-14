@@ -43,31 +43,6 @@ body {
   padding-left: 1.8rem !important;
 }
 
-/* ===== THÊM AVATAR DƯỚI CHỮ BLOG CỦA ROBOE (CHỈ TRÊN TRANG BÀI VIẾT) ===== */
-.custom-author-header {
-  display: flex;
-  flex-direction: column;    /* Xếp dọc: avatar ở trên, chữ ở dưới */
-  align-items: flex-start;   /* Căn sang bên trái (quan trọng) */
-  gap: 8px;
-  margin-top: 15px;
-  margin-bottom: 20px;
-  /* border-top: 1px solid #eaecef;  ← Nếu còn dòng này thì xóa đi để bỏ kẻ ngang */
-}
-
-.custom-avatar {
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid #f0f0f0;
-}
-
-.custom-author-name {
-  font-size: 1.2rem;
-  font-weight: 600;
-  color: #2c3e50;
-  text-align: left;          /* Căn chữ sang trái */
-}
 /* Trên điện thoại nhỏ lại chút */
 @media (max-width: 480px) {
   .custom-avatar {
