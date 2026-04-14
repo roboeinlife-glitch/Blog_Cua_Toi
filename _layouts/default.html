@@ -8,7 +8,6 @@
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" itemscope itemtype="https://schema.org/WebPage">
         {% comment %}{% include browser-upgrade.html %}{% endcomment %}
     {% include masthead.html %}
-        {% include custom-avatar.html %}
 
     <div class="initial-content">
       {{ content }}
