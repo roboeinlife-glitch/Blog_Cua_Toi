@@ -27,7 +27,7 @@ Nhưng rất tiếc là sửa đi sửa lại mất rất nhiều thời gian kh
 Tôi tự nhủ, mình không biết lập trình nên phải hết sức kiên nhẫn, nhưng kiên nhẫn đến bao giờ đây? <br>
 Làm đi làm lại mãi không được, tôi mới nói với **DeepSeek** hay là nghỉ đã vì lúc này tôi cũng đã thấm mệt (tôi vốn sức khở không được tốt, không ngồi lâu được trước màn hình)<br>
 Chúng tôi cùng quyết định nghỉ ngơi, hôm sau sẽ tạo chat mới và xem lại toàn bộ một lần nữa cho rõ ràng. <br>
-Trước khi tiếp tục trao đổi với  **DeepSeek**, tôi bông nghĩ hay là mình thử tham khảo AI khác xem sao?<br>
+Trước khi tiếp tục trao đổi với  **DeepSeek**, tôi bỗng nghĩ hay là mình thử tham khảo AI khác xem sao?<br>
 Nghĩ là làm, tôi liền nhờ **Grok (xAI)** tham khảo. Đến đây, tôi lại gặp vấn đề khác đó là Grok không thể đọc được nội dung file từ link, chỉ có thể copy dán nội dung trực tiếp vào chat.<br>
 Hạn chế này cũng không ảnh hưởng gì lắm, chúng tôi vẫn có thể trao đổi. Có điều, Grok lại không giải quyết vấn đề được nhiều, không phân tích được **_config** 
 
