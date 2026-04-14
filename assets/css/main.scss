@@ -1,0 +1,45 @@
+---
+# Front matter bắt buộc
+---
+
+@import "minimal-mistakes";
+
+/* GIỐNG HỆT TRANG "CHÀO THẾ GIỚI!" - ĐỂ TRÌNH DUYỆT TỰ QUYẾT ĐỊNH */
+body {
+  font-family: inherit !important;  /* QUAN TRỌNG: Để trình duyệt tự chọn font */
+  font-size: 18px !important;
+  line-height: 1.5 !important;
+  color: #333 !important;
+}
+
+/* KHÔNG ghi đè font-family ở bất cứ đâu khác */
+.page__content {
+  font-family: inherit !important;
+}
+
+.page__content p {
+  margin-bottom: 0.94rem !important;  /* 15px */
+  line-height: inherit !important;
+}
+
+.page__content h1 {
+  font-size: 2rem !important;
+  margin-bottom: 1.2rem !important;
+  border-bottom: 1px solid #eaecef !important;
+  padding-bottom: 0.4rem !important;
+  font-weight: 700 !important;
+}
+
+.page__content h2 {
+  font-size: 1.6rem !important;
+  margin-top: 1.8rem !important;
+  margin-bottom: 0.8rem !important;
+  font-weight: 600 !important;
+}
+
+.page__content ul, 
+.page__content ol {
+  margin-bottom: 0.94rem !important;
+  padding-left: 1.8rem !important;
+}
+
