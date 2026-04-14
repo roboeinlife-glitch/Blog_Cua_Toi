@@ -39,7 +39,7 @@ Không nói hết sự vui mừng khôn xiết thế nào khi khung bình luận
 Qua sự cố lần này tôi nhớ đến chuyện làm bài tập về nhà hồi nhỏ.<br>
 Có một bài toán làm mãi không được, nghĩ mãi cũng không ra cách gì. Mặc dù trong lòng rất lo lắng không hoàn thành bài tập nhưng không thể làm thì biết sao được.<br>
 Tôi rời bàn ra vườn hái rau và không để tâm cố nghĩ về bài tập nữa. Đầu óc hoàn toàn trống rỗng thật thoải mái. <br>
-Sau khi xong việc, tôi trở lại gấp sách vở, bỗng nhiên nhìn vào bài toán và thật là kì - bất ngờ tôi nhận ra ngay chi tiết dữ kiện liên kết để giải bài toán mà không hề gặp một chút khó khắn nào. Tôi nhân ra, bài toán không những không hề khó mà còn rất dễ.<br>
+Sau khi xong việc, tôi trở lại gấp sách vở, bỗng nhiên nhìn vào bài toán và thật kì diệu - bất ngờ tôi nhận ra ngay chi tiết dữ kiện liên kết để giải bài toán mà không hề gặp một chút khó khắn nào. Tôi nhân ra, bài toán không những không hề khó mà còn rất dễ.<br>
 
 Có một dòng trạng thái của tài khoản **[Youtube](https://x.com/YouTube/status/1993424456102883500)** trên mạng xã hội **X** tôi cho rằng rất đúng với trường hợp trong bài viết này đó là: **"Sometimes it’s okay to press pause"** <br>
 
