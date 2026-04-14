@@ -29,11 +29,11 @@ Làm đi làm lại mãi không được, tôi mới nói với **DeepSeek** hay
 Chúng tôi cùng quyết định nghỉ ngơi, hôm sau sẽ tạo chat mới và xem lại toàn bộ một lần nữa cho rõ ràng. <br>
 Trước khi tiếp tục trao đổi với  **DeepSeek**, tôi bông nghĩ hay là mình thử tham khảo AI khác xem sao?<br>
 Nghĩ là làm, tôi liền nhờ **Grok (xAI)** tham khảo. Đến đây, tôi lại gặp vấn đề khác đó là Grok không thể đọc được nội dung file từ link, chỉ có thể copy dán nội dung trực tiếp vào chat.<br>
-Hạn chế này cũng không ảnh hưởng gì lắm, chúng tôi vẫn có thể trao đổi. Có điều, Grok lại không giải quyết vấn đề được nhiều, không phân tích được **_config** <br>
-Tôi gần như sắp thất vọng, định bụng sẽ hỏi Chat GPT. Rồi tôi đọc lại nội dung trao đổi với **Grok** và nhận ra, trong số các chi tiết **DeepSeek** yêu cầu cung cấp để kiểm tra, có một danh mục chưa có trong các file cấu hình đó là: **_includes/comments**
+Hạn chế này cũng không ảnh hưởng gì lắm, chúng tôi vẫn có thể trao đổi. Có điều, Grok lại không giải quyết vấn đề được nhiều, không phân tích được **_config** 
 
-Tôi gần như thấy một hy vọng và trở lại trao đổi với **DeepSeek**. Tôi nói rằng, tôi đoán là chúng tôi đang thiếu file này. <br>
-**DeepSeek** cũng đồng tình và giúp tôi tạo file.
+Tôi gần như sắp thất vọng, định bụng sẽ hỏi Chat GPT. Rồi tôi đọc lại nội dung trao đổi với **Grok** và nhận ra, trong số các chi tiết **Grok** yêu cầu cung cấp để kiểm tra, có một danh mục chưa có trong các file cấu hình đó là: **_includes/comments**
+
+Một hy vọng loé lên, tôi trở lại trao đổi với **DeepSeek**. Tôi đoán là chúng tôi đang thiếu file này, **DeepSeek** cũng đồng tình và giúp tôi tạo file.
 
 Không nói hết sự vui mừng khôn xiết thế nào khi khung bình luận đã hiển thị ra thật đẹp đẽ dưới bài viết mà không bị thêm lỗi nào. <br>
 Qua sự cố lần này tôi nhớ đến chuyện làm bài tập về nhà hồi nhỏ.<br>
