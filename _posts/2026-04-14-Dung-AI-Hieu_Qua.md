@@ -6,7 +6,7 @@ author_profile: true
 sidebar:
   nav: "sidebar"
 ---
-
+<br><br><br>
 Hôm nay ngày 14 tháng tư năm 2026, tôi lại viết blog chia sẻ kinh nghiệm sử dụng AI hiệu quả.<br>
 Phải nhắc lại cho rõ rằng tôi không biết lập trình, học sử dụng môi trường lập trình là để nhờ AI tạo ra những hiệu ứng nhằm diễn đạt ý nghĩ (mặc dù đã có các ứng dụng tạo video từ hình ảnh và lời nhắc nhưng cần trả phí mà tôi lại không có tiền) <br>
 Rôi tôi biết có Github là nơi lưu trữ chương trình đã tạo rất tiện ích như đã viết trong bài: [Tôi Dùng GITHUB Để Làm Gì?](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/2026/01/28/Dung-GITHUB-Lam-Gi.html)<br>
