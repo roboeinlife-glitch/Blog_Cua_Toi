@@ -1,5 +1,5 @@
 ---
-title: "Sử Dụng AI Hiệu Quả <br> "Sometimes it’s okay to press pause"
+title: "Sử Dụng AI Hiệu Quả"
 date: 2026-04-12
 layout: single
 author_profile: true
