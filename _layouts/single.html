@@ -4,6 +4,17 @@ layout: default
 
 <div id="main" role="main">
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <!-- ⭐ COPY NGUYÊN CẤU TRÚC AUTHOR PROFILE TỪ TRANG CHỦ ⭐ -->
+    <div class="page__author-profile">
+      <div class="author__avatar">
+        <img src="/Blog_Cua_Toi/assets/images/Gimball.png" alt="RoboE_inlife">
+      </div>
+      <div class="author__content">
+        <h3 class="author__name">RoboE_inlife</h3>
+        <div class="author__bio">Chào mừng bạn đến với blog của tôi!</div>
+      </div>
+    </div>
 
     <!-- TIÊU ĐỀ BÀI VIẾT -->
     <header>
@@ -17,7 +28,7 @@ layout: default
       {{ content }}
     </section>
 
-    <!-- PHẦN CHIA SẺ VÀ PHÂN TRANG -->
+    <!-- Các phần khác giữ nguyên -->
     <footer class="page__meta">
       {% include page__taxonomy.html %}
       {% include page__date.html %}
@@ -29,7 +40,6 @@ layout: default
 
     {% include post_pagination.html %}
 
-    <!-- KHUNG BÌNH LUẬN -->
     {% if page.comments %}
       <div class="page__comments">
         {% include comments.html %}
