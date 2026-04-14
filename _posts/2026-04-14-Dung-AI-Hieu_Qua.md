@@ -15,10 +15,10 @@ Tuy nhiên, blog của tôi không phải được fork lại từ chương trì
 
 Tôi đã gửi tất cả nội dung các file trong Repository Blog để `**DeepSeek**` kiểm tra, tìm hiểu xem lỗi do đâu.<br>
 Sau khi đọc hết các file, `**<p style="color: blue;">DeepSeek.</p>**` đã cho tôi phương án giải quyết - thêm bớt, thay thế các mã lệnh (code) trong tất cả các file cấu hình:<br>
-1, `**<_Includes**` <br>
-2,  `**<_layouts**` <br>
+1, `**_Includes**` <br>
+2,  `**_layouts**` <br>
 3,  `**assets**` <br>
-4,  `**<p_config**` <br>
+4,  `**_config**` <br>
 5,  `**index**` <br>
 
 Nhưng rất tiếc là sửa đi sửa lại mất rất nhiều thời gian không những không đạt kết quả mà còn thêm lỗi tùm lùm tà là. Tôi tự nhủ, mình không biết lập trình nên phải hết sức kiên nhẫn, nhưng kiên nhẫn đến bao giờ đây? <br>
@@ -27,7 +27,7 @@ Chúng tôi cùng quyết định nghỉ ngơi, hôm sau sẽ tạo chat mới v
 Trước khi tiếp tục trao đổi với  `**DeepSeek**`, tôi bông nghĩ hay là mình thử tham khảo AI khác xem sao?<br>
 Nghĩ là làm, tôi liền nhờ `**Grok (xAI)**` tham khảo. Đến đây, tôi lại gặp vấn đề khác đó là Grok không thể đọc được nội dung file từ link, chỉ có thể copy dán nội dung trực tiếp vào chat.<br>
 Hạn chế này cũng không ảnh hưởng gì lắm, chúng tôi vẫn có thể trao đổi. Có điều, Grok lại không giải quyết vấn đề được nhiều, không phân tích được `**_config*`<br>
-Tôi gần như sắp thất vọng, định bụng sẽ hỏi Chat GPT. Rồi tôi đọc lại nội dung trao đổi với `**Grok**` và nhận ra, trong số các chi tiết `**DeepSeek**` yêu cầu cung cấp để kiểm tra, có một danh mục chưa có trong các file cấu hình đó là: `**>_includes/comments**`
+Tôi gần như sắp thất vọng, định bụng sẽ hỏi Chat GPT. Rồi tôi đọc lại nội dung trao đổi với `**Grok**` và nhận ra, trong số các chi tiết `**DeepSeek**` yêu cầu cung cấp để kiểm tra, có một danh mục chưa có trong các file cấu hình đó là: `**_includes/comments**`
 
 Tôi gần như thấy một hy vọng và trở lại trao đổi với `**DeepSeek**`. Tôi nói rằng, tôi đoán là chúng tôi đang thiếu file này. <br>
 `**DeepSeek**` cũng đồng tình và giúp tôi tạo file.
