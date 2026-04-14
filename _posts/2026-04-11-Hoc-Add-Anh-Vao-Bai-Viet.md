@@ -14,7 +14,7 @@ Mỗi ngày học một tính năng, bài học hôm nay của tôi là cách đ
 Đầu tiên, tôi sẽ tạo một file hình ảnh trong Repository đặt tên là [images](https://github.com/roboeinlife-glitch/Boring/tree/main/images) để lưu trữ các hình ảnh cần dùng.  
 
 Và đây là hai hình ảnh mà tôi muốn đưa vào bài viết này:<br>
-1, Hình ảnh avata của tôi trên Github. Nhân vật này có tên là ![Gimball](https://github.com/roboeinlife-glitch/Boring/blob/main/images/Gimball%20Noel.png). <br>
+1, Hình ảnh avata của tôi trên Github. Nhân vật này có tên là [Gimball](https://github.com/roboeinlife-glitch/Boring/blob/main/images/Gimball%20Noel.png). <br>
 Đã xuất hiện trong một chương trình game giáng sinh có tên là [gimball-ski-game](https://github.com/roboeinlife-glitch/gimball-ski-game)<br>
 Gimball rất đáng yêu, tôi thích vẻ trẻ thơ hồn nhiên trong sáng hiển hiện lên khuôn mặt.<br>
 Tôi chia sẻ điều bí mật nhỏ này, Gimball là trí tưởng tượng của tôi và là tôi đã vẽ nó ra rồi nhờ [Sora](https://sora.chatgpt.com/g/gen_01kcjtchhdf6ntq6xbz1mh6edb) hiệu chỉnh cho đẹp ^^. <br>
