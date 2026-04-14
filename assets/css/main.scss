@@ -83,3 +83,48 @@ body {
     padding-top: 10px;
   }
 }
+
+/* ===== BỔ SUNG: ĐỊNH DẠNG CHO PHẦN AUTHOR PROFILE (GIỐNG TRANG CHỦ) ===== */
+.page__author-profile {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 1.8rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eaecef;
+}
+
+.page__author-profile .author__avatar img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #f0f0f0;
+}
+
+.page__author-profile .author__name {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin: 0 0 5px 0;
+  color: #2c3e50;
+}
+
+.page__author-profile .author__bio {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0;
+}
+
+/* Responsive cho phần author profile */
+@media (max-width: 480px) {
+  .page__author-profile .author__avatar img {
+    width: 48px;
+    height: 48px;
+  }
+  .page__author-profile .author__name {
+    font-size: 1.1rem;
+  }
+  .page__author-profile .author__bio {
+    font-size: 0.8rem;
+  }
+}
