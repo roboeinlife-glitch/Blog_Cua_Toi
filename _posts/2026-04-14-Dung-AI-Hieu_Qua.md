@@ -14,7 +14,8 @@ Sau khi đã tạo được một trang Blog tuyệt đẹp mà tôi rất yêu 
 Tuy nhiên, blog của tôi không phải được fork lại từ chương trình chuẩn của lập trình viên chuyên nghiệp mà là nhờ `**DeepSeek**` hướng dẫn cấu hình, thế nên, mặc dù đã thực hiện theo trình tự nhưng chức năng bình luận vẫn chưa hiện thị cuối bài viết.<br>
 
 Tôi đã gửi tất cả nội dung các file trong Repository Blog để `**DeepSeek**` kiểm tra, tìm hiểu xem lỗi do đâu.<br>
-Sau khi đọc hết các file, **<p style="color: blue;">DeepSeek.</p>** đã cho tôi phương án giải quyết - thêm bớt, thay thế các mã lệnh (code) trong tất cả các file cấu hình:<br>
+Sau khi đọc hết các file, **DeepSeek** đã cho tôi phương án giải quyết - thêm bớt, thay thế các mã lệnh (code) trong tất cả các file cấu hình:
+
 1, **_Includes** <br>
 2,  **_layouts** <br>
 3,  **assets** <br>
@@ -33,9 +34,10 @@ Tôi gần như thấy một hy vọng và trở lại trao đổi với **DeepS
 **DeepSeek** cũng đồng tình và giúp tôi tạo file.
 
 Không nói hết sự vui mừng khôn xiết thế nào khi khung bình luận đã hiển thị ra thật đẹp đẽ dưới bài viết mà không bị thêm lỗi nào. <br>
-Qua sự cố lần này tôi nhớ đến chuyện làm bài tập về nhà hồi nhỏ. Có một bài toán làm mãi không được, nghĩ mãi cũng không ra cách gì. Mặc dù trong lòng rất lo lắng không hoàn thành bài tập nhưng không thể làm thì biết sao được.<br>
+Qua sự cố lần này tôi nhớ đến chuyện làm bài tập về nhà hồi nhỏ.<br>
+Có một bài toán làm mãi không được, nghĩ mãi cũng không ra cách gì. Mặc dù trong lòng rất lo lắng không hoàn thành bài tập nhưng không thể làm thì biết sao được.<br>
 Tôi rời bàn ra vườn hái rau và không để tâm cố nghĩ về bài tập nữa. Đầu óc hoàn toàn trống rỗng thật thoải mái. <br>
 Sau khi xong việc, tôi trở lại gấp sách vở, bỗng nhiên nhìn vào bài toán và thật là kì - bất ngờ tôi nhận ra ngay chi tiết dữ kiện liên kết để giải bài toán mà không hề gặp một chút khó khắn nào. Tôi nhân ra, bài toán không những không hề khó mà còn rất dễ.<br>
 
-Có một dòng trạng thái của tài khoản **[Youtube](https://x.com/YouTube/status/1993424456102883500)** trên mạng xã hội **X** tôi cho rằng rất đúng với trường hợp tròng bài viết này đó là: **"Sometimes it’s okay to press pause"** <br>
+Có một dòng trạng thái của tài khoản **[Youtube](https://x.com/YouTube/status/1993424456102883500)** trên mạng xã hội **X** tôi cho rằng rất đúng với trường hợp trong bài viết này đó là: **"Sometimes it’s okay to press pause"** <br>
 
