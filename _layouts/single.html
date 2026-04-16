@@ -4,46 +4,53 @@ layout: default
 
 <div id="main" role="main">
 
-  <!-- HEADER NHỎ (CHỈ TRANG BÀI VIẾT) -->
-  {% if site.author %}
-  <div class="author-top">
-    <a href="{{ '/' | relative_url }}">
-      <img src="{{ site.author.avatar | relative_url }}">
-    </a>
-    <a href="{{ '/' | relative_url }}" class="author-name">
-      {{ site.author.name }}
-    </a>
-  </div>
-  {% endif %}
-
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     
-    <header>
-      <h1 id="page-title" class="page__title" itemprop="headline">
-        {{ page.title }}
-      </h1>
-    </header>
+    <div class="page__inner-wrap">
 
-    <section class="page__content" itemprop="text">
-      {{ content }}
-    </section>
-
-    <footer class="page__meta">
-      {% include page__taxonomy.html %}
-      {% include page__date.html %}
-    </footer>
-
-    {% if page.share %}
-      {% include social-share.html %}
-    {% endif %}
-
-    {% include post_pagination.html %}
-
-    {% if page.comments %}
-      <div class="page__comments">
-        {% include comments.html %}
+      <!-- HEADER NHỎ -->
+      {% if site.author %}
+      <div class="author-top">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ site.author.avatar | relative_url }}">
+        </a>
+        <a href="{{ '/' | relative_url }}" class="author-name">
+          {{ site.author.name }}
+        </a>
       </div>
-    {% endif %}
+      {% endif %}
+
+      <!-- TIÊU ĐỀ -->
+      <header>
+        <h1 id="page-title" class="page__title" itemprop="headline">
+          {{ page.title }}
+        </h1>
+      </header>
+
+      <!-- NỘI DUNG -->
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
+
+      <!-- META -->
+      <footer class="page__meta">
+        {% include page__taxonomy.html %}
+        {% include page__date.html %}
+      </footer>
+
+      {% if page.share %}
+        {% include social-share.html %}
+      {% endif %}
+
+      {% include post_pagination.html %}
+
+      {% if page.comments %}
+        <div class="page__comments">
+          {% include comments.html %}
+        </div>
+      {% endif %}
+
+    </div>
 
   </article>
 </div>
