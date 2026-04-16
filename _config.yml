@@ -1,3 +1,47 @@
+title: "Blog của RoboE"
+description: "Nơi chia sẻ những điều thú vị"
+baseurl: "/Blog_Cua_Toi"
+url: "https://roboeinlife-glitch.github.io"
+
+remote_theme: mmistakes/minimal-mistakes
+
+author:
+  name: "RoboE_inlife"
+  avatar: "/assets/images/Gimball.png"
+  bio: "Chào mừng bạn đến với blog của tôi!"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/roboeinlife-glitch"
+    - label: "YouTube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/@RoboE_Life"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://x.com/roboe_inlife"
+
+show_downloads: true
+permalink: /:year/:month/:day/:title:output_ext
+markdown: kramdown
+highlighter: rouge
+timezone: Asia/Ho_Chi_Minh
+future: true
+
+plugins:
+  - jekyll-include-cache
+
+# Cấu hình mặc định cho bài viết
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      sidebar:
+        nav: "sidebar"
+
 # Cấu hình comments
 comments:
   provider: "giscus"
