@@ -72,10 +72,10 @@ body {
 
 /* FIX triệt để việc ảnh bị phóng to bởi theme */
 .author-top img {
-  width: 32px !important;
-  height: 32px !important;
-  min-width: 32px;
-  max-width: 32px !important;
+  width: 28px !important;
+  height: 28px !important;
+  min-width: 28px;
+  max-width: 28px !important;
   border-radius: 50%;
   object-fit: cover;
 }
