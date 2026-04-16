@@ -68,3 +68,7 @@ body {
   border-radius: 50%;
   object-fit: cover;
 }
+
+.author-top {
+  margin-bottom: 15px;
+}
