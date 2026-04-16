@@ -61,33 +61,45 @@ body {
   line-height: inherit !important;
 }
 
-/* ===== HEADER AVATAR TRÊN BÀI VIẾT ===== */
+/* ===== HEADER AVATAR TRÊN BÀI VIẾT (FINAL) ===== */
 
 .author-top {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-bottom: 12px;
+
+  margin-bottom: 14px;
+  padding-bottom: 6px;
+
+  /* quan trọng: giúp ăn theo layout theme */
+  font-family: inherit;
 }
 
-/* FIX triệt để việc ảnh bị phóng to bởi theme */
+/* AVATAR */
 .author-top img {
   width: 28px !important;
   height: 28px !important;
   min-width: 28px;
   max-width: 28px !important;
+
   border-radius: 50%;
   object-fit: cover;
+
+  display: block;
 }
 
 /* TEXT */
 .author-name {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
+
   text-decoration: none;
-  color: #333;
+  color: #555;
+
+  line-height: 1;
 }
 
 .author-name:hover {
+  color: #000;
   text-decoration: underline;
 }
