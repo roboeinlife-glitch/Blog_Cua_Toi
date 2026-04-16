@@ -60,3 +60,11 @@ body {
   margin-bottom: 0.25rem !important;
   line-height: inherit !important;
 }
+
+.author-top img {
+  max-width: 40px !important;
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50%;
+  object-fit: cover;
+}
