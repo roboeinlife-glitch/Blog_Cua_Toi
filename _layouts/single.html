@@ -3,22 +3,6 @@ layout: default
 ---
 
 <div id="main" role="main">
-
-  <!-- HEADER (AVATAR + TÊN, CLICK VỀ TRANG CHỦ) -->
-  {% if site.author %}
-  <div class="author-top">
-    <a href="{{ '/' | relative_url }}">
-      <img src="{{ site.author.avatar | relative_url }}" class="avatar">
-    </a>
-    <div class="author-info">
-      <a href="{{ '/' | relative_url }}" class="author-name">
-        {{ site.author.name }}
-      </a>
-      <p class="author-bio">{{ site.author.bio }}</p>
-    </div>
-  </div>
-  {% endif %}
-
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     
     <!-- TIÊU ĐỀ BÀI VIẾT -->
