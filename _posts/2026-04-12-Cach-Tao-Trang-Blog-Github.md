@@ -51,13 +51,15 @@ Và đặt nội dung này vào file README. Như vậy, khi mọi người vào
 
 **Cách thực hiện:** Vào repository blog vừa tạo, chọn **Create new file** và lần lượt tạo các file/thư mục sau:
 
-1. `_includes` – [ví dụ archive-single.html](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/_includes/archive-single.html)
-2. `_posts` – [thư mục chứa bài viết](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/tree/main/_posts)
-3. `assets` – trong đó tôi có hai file:  
-   - [style.css](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/assets/css/style.css)  
-   - [main.scss](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/assets/css/main.scss) (bổ sung và ghi đè lên style.css để sửa lỗi tách chữ trong một từ)
-4. `_config.yml` – [file cấu hình](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/_config.yml) định dạng font, kích thước, tiêu đề… (những gì hiển thị trên trình duyệt)
-5. `images` – [thư mục](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/tree/main/assets/images) lưu trữ ảnh, video để đưa vào bài đăng
+1. `_includes` Có:<br>
+[archive-single.html](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/_includes/archive-single.html)<br>
+Và [comments.html](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/_includes/comments.html)<br>
+3. `_posts` – [thư mục chứa bài viết](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/tree/main/_posts)<br>
+4. `assets` – trong đó tôi có hai file:  <br>
+   - [style.css](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/assets/css/style.css) <br> 
+   - [main.scss](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/assets/css/main.scss) (bổ sung và ghi đè lên style.css để sửa lỗi tách chữ trong một từ) <br>
+5. `_config.yml` – [file cấu hình](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/_config.yml) định dạng font, kích thước, tiêu đề… (những gì hiển thị trên trình duyệt)<br>
+6. `images` – [thư mục](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/tree/main/assets/images) lưu trữ ảnh, video để đưa vào bài đăng
 
 **Thao tác:**  
 Vào repository → chọn **Create new file** → đặt tên file (theo mẫu) → copy nội dung code vào khung soạn thảo Markdown → chọn **Commit** → đợi khoảng 2 phút để GitHub cập nhật.<br>
@@ -70,7 +72,7 @@ Sau khi tạo xong các file cấu hình, việc còn lại rất đơn giản:
 2. Đặt tên cho bài viết bằng **tiếng Anh**, các từ nối với nhau bằng dấu gạch ngang `-`, kết thúc bằng đuôi `.md`.<br>
 3. Viết nội dung Markdown như bạn muốn.<br>
 4. Commit bài viết, đợi GitHub cập nhật.<br>
-5. **Luôn gắn link** `**Vào Trang Chủ Blog**` ở cuối bài viết để người đọc dễ dàng truy cập các bài khác.
+5. **Luôn gắn link Vào Trang Chủ Blog** ở cuối bài viết để người đọc dễ dàng truy cập các bài khác.
 
  **Một số thông tin thêm về Blog GitHub**
 
