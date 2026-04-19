@@ -1,5 +1,5 @@
 ---
-title: "Cái Mũ Cua Tôi Cũng Đã Quá nặng Rồi"
+title: "Cái Mũ Cảa Tôi Cũng Đã Quá nặng Rồi"
 date: 2026-04-19
 layout: single
 author_profile: true
@@ -29,6 +29,6 @@ Vì vậy, việc giữ cái mũ của mình không phải là thờ ơ với th
 
 **Cảm ơn** bài đăng của [Mihir Anand](https://x.com/mihiranand/status/2044883144646738232) đã truyền cảm hứng cho tôi để viết ra những suy ngẫm này.<br>
 **Cảm ơn** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) đã tạo ra nền tảng tiện ích này và cho phép người dùng như tôi sử dụng một cách hữu ích!
-**Cảm ơn** ![Grok](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png) đã giúp tôi hiệu chỉnh bài viết được súc tích hơn.
+**Cảm ơn** <image-card alt="Grok xAI" src="https://img.shields.io/badge/Grok_xAI-000000?logo=xai&logoColor=white" ></image-card> đã giúp tôi hiệu chỉnh bài viết được súc tích hơn.
 
 
