@@ -14,7 +14,8 @@ Mỗi ngày học một tính năng, bài học hôm nay của tôi là cách đ
 Đầu tiên, tôi sẽ tạo một file hình ảnh trong Repository đặt tên là [images](https://github.com/roboeinlife-glitch/Boring/tree/main/images) để lưu trữ các hình ảnh cần dùng.<br>
 Đây là một file rỗng, cách đặt tên file là: images.gitkeep (bạn có thể thay tên khác images tuỳ ý, miễn sao bạn biết đó là nơi lưu trữ ảnh của bạn là được)<br>
 Tiếp theo, bạn vào file vừa tạo, nhấp vào add file chọn upload files.
-Việc còn lại đơn giản là bạn mở file trong thư mục ra copy đường dẫn vào markdown theo công thức: [tên ảnh](link ảnh)
+Việc còn lại đơn giản là bạn mở file trong thư mục ra copy đường dẫn vào markdown theo công thức: [tên ảnh](link ảnh)<br>
+Hiện tại, tôi chỉ mới dẫn đường link mở ảnh riêng, chưa hiển thị trực tiếp trong bài viết. Tôi sẽ học cách làm này trong thời gian tới.
 
 Và đây là hai hình ảnh mà tôi muốn đưa vào bài viết này:<br>
 1, Hình ảnh avata của tôi trên Github. Nhân vật này có tên là [Gimball](https://github.com/roboeinlife-glitch/Boring/blob/main/images/Gimball%20Noel.png). <br>
