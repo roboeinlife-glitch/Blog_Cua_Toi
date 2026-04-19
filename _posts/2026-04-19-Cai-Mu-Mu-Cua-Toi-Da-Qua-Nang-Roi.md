@@ -12,8 +12,8 @@ sidebar:
 
 Hôm nay, ngày 19 tháng tư năm 2026, tôi viết vài suy ngẫm cho bản thân từ bài đang của tài khoản [Mihir Anand](https://x.com/mihiranand/status/2044883144646738232)<br>
 Anh ấy kể lại một cách nhìn mới mà anh tình cờ bắt gặp:<br>
->*Nếu mọi người trên thế giới đều viết ra vấn đề của mình rồi bỏ vào một cái mũ, bạn sẽ chọn lấy một cái mũ nào đó hay giữ lại cái mũ của chính mình?*<br>
->Nguyên văn tiếng Anh như sau: 
+>*"Nếu mọi người trên thế giới đều viết ra vấn đề của mình rồi bỏ vào một cái mũ, bạn sẽ chọn lấy một cái mũ nào đó hay giữ lại cái mũ của chính mình?"*<br>
+>Nguyên văn tiếng Anh như sau: <br> 
 >*“if everyone in the world wrote down their problems and put them in a hat, would you grab one or keep yours?”*
 
 Thực ra, dù chọn cách nào cũng không sai. Vì mỗi người có một hệ quy chiếu riêng.<br>
