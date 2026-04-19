@@ -27,5 +27,4 @@ Và tất nhiên rồi, để thực hiện bài viết này không thể thiế
 Bây giờ tôi kết thúc bài viết ở đây để kiểm tra kết quả hiển thị trên trang chủ Blog, và sẽ quay lại để sửa chữa nếu chưa đẹp.<br>
 Cảm ơn góc nhỏ bí mật mà công khai này, nơi tôi có thể viết ra những suy nghĩ của mình mà không cần phải ai biết hay biết ai.
 
-[Về trang chủ Blog](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/)<br>
-[Về trang chủ Github RoboE](https://github.com/roboeinlife-glitch)
+
