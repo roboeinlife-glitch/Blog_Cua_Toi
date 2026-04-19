@@ -16,6 +16,8 @@ Anh ấy kể lại một cách nhìn mới mà anh tình cờ bắt gặp:<br>
 >Nguyên văn tiếng Anh như sau: <br> 
 >*“if everyone in the world wrote down their problems and put them in a hat, would you grab one or keep yours?”*
 
+[World's Problems or Yours](https://github.com/roboeinlife-glitch/Blog_Cua_Toi/blob/main/Blog_Images/Choose%20the%20hat.png)
+
 Thực ra, dù chọn cách nào cũng không sai. Vì mỗi người có một hệ quy chiếu riêng.<br>
 Có người thích để tâm đến vấn đề của người khác có thể vì họ thấy gần gũi, hoặc trực giác mách bảo rằng họ có thể góp ý được gì đó. <br>
 Và chúng ta đều biết "Nói thì dễ hơn làm" (cười nhẹ) <br>
