@@ -27,7 +27,7 @@ Vì sao ư?<br>
 Thứ hai, mỗi mỗi chúng ta tuy là một cá thể riêng biệt nhưng lại gắn bó chặt chẽ với cộng đồng xung quanh. Khi một người sống tốt, giải quyết ổn thoả các vấn đề của chính mình thì chính họ đang góp phần tạo ra những tương quan tích cực cho người xung quanh. Và chỉ khi sống tốt cuộc đời mình, chúng ta mới có cái nhìn sáng suốt, khách quan và gần đúng nhất với vấn đề của người khác.
 
 Vì vậy, việc giữ cái mũ của mình không phải là thờ ơ với thế giới mà là cách tôi chọn để: <br>
->*"Làm thật tốt những việc mình có thể làm tốt thay vì cố gắng giỏi việc mình chỉ có thểở mức trung bình"*.
+>*"Làm thật tốt những việc mình có thể làm tốt thay vì cố gắng giỏi việc mình chỉ có thể làm ở mức trung bình"*.
 
 **Cảm ơn** bài đăng của [Mihir Anand](https://x.com/mihiranand/status/2044883144646738232) đã truyền cảm hứng cho tôi để viết ra những suy ngẫm này.<br>
 **Cảm ơn** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) đã tạo ra nền tảng tiện ích này và cho phép người dùng như tôi sử dụng một cách hữu ích.<br>
