@@ -19,10 +19,10 @@ Anh ấy kể lại một cách nhìn mới mà anh tình cờ bắt gặp:<br>
 Thực ra, dù chọn cách nào cũng không sai. Vì mỗi người có một hệ quy chiếu riêng.<br>
 Có người thích để tâm đến vấn đề của người khác có thể vì họ thấy gần gũi, hoặc trực giác mách bảo rằng họ có thể góp ý được gì đó. <br>
 Và chúng ta đều biết "Nói thì dễ hơn làm" (cười nhẹ) <br>
-Tuy nhiên, nếu bắt buộc phải chọn một, thì câu trả lời của tôi là:  **giữ mũ của mình**<br>
+Tuy nhiên, nếu bắt buộc phải chọn một, thì câu trả lời của tôi là:  **giữ mũ của mình**.<br>
 Vì sao ư?<br>
 Đầu tiên, tôi chỉ là một người bình thường đối diện với vô vàn các vấn đề của riêng rồi. Chỉ với những điều ấy thôi chiếc mũ của tôi cũng đã đủ nặng rồi ^^ <br>
-Thứ hai, mỗi mỗi chúng ta tuy là một cá thể riêng biệt nhưng lại gắn bó chặt chẽ với cộng đồng xung quanh. Khi một người sống tốt, giải quyết ổn thoả các vấn đề của chính mình thì chính họđang góp phần tạo ra những tương quan tích cực cho người xung quanh. Và chỉ khi sống tốt cuộc đời mình, chúng ta mới có cái nhìn sáng suốt, khách quan và gần đúng nhất với vấn đề của người khác.
+Thứ hai, mỗi mỗi chúng ta tuy là một cá thể riêng biệt nhưng lại gắn bó chặt chẽ với cộng đồng xung quanh. Khi một người sống tốt, giải quyết ổn thoả các vấn đề của chính mình thì chính họ đang góp phần tạo ra những tương quan tích cực cho người xung quanh. Và chỉ khi sống tốt cuộc đời mình, chúng ta mới có cái nhìn sáng suốt, khách quan và gần đúng nhất với vấn đề của người khác.
 
 Vì vậy, việc giữ cái mũ của mình không phải là thờ ơ với thế giới mà là cách tôi chọn để: <br>
 >*"Làm thật tốt những việc mình có thể làm tốt thay vì cố gắng giỏi việc mình chỉ có thểở mức trung bình"*.
