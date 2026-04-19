@@ -1,5 +1,5 @@
 ---
-title: "Cái Mũ Của Tôi Cũng Đã Quá nặng Rồi"
+title: "Cái Mũ Của Tôi Cũng Đã Quá Nặng Rồi"
 date: 2026-04-19
 layout: single
 author_profile: true
