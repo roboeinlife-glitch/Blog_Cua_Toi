@@ -28,7 +28,7 @@ Vì vậy, việc giữ cái mũ của mình không phải là thờ ơ với th
 >*"Làm thật tốt những việc mình có thể làm tốt thay vì cố gắng giỏi việc mình chỉ có thểở mức trung bình"**.
 
 **Cảm ơn** bài đăng của [Mihir Anand](https://x.com/mihiranand/status/2044883144646738232) đã truyền cảm hứng cho tôi để viết ra những suy ngẫm này.<br>
-**Cảm ơn** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) đã tạo ra nền tảng tiện ích này và cho phép người dùng như tôi sử dụng một cách hữu ích!
-**Cảm ơn** <image-card alt="Grok xAI" src="https://img.shields.io/badge/Grok_xAI-000000?logo=xai&logoColor=white" ></image-card> đã giúp tôi hiệu chỉnh bài viết được súc tích hơn.
+**Cảm ơn** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) đã tạo ra nền tảng tiện ích này và cho phép người dùng như tôi sử dụng một cách hữu ích!<br>
+**Cảm ơn** ![Grok xAI](https://img.shields.io/badge/Grok_xAI-000000?logo=xai&logoColor=white) đã giúp tôi hiệu chỉnh bài viết được súc tích hơn.
 
 
