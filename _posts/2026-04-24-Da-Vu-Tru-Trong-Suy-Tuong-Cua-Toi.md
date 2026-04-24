@@ -8,9 +8,8 @@ sidebar:
 ---
 
 <div style="height: 2rem;"></div>
-Hôm nay, ngày 24 tháng Tư năm 2026, ngoài trời đang mưa. Tôi ngồi trước chiếc máy tính để bàn cũ kỹ, lóc cóc gõ ra những dòng suy tưởng điên rồ từ bộ óc hạn hẹp, hiểu biết ít ỏi và thiếu kiến thức sâu rộng.<br>
-Nhưng không sao cả, tôi tự nhủ vậy.<br>
-Tôi viết cho chính mình, để làm mình vui là đủ rồi (cười nhẹ).
+Hôm nay, ngày 24 tháng tư năm 2026, ngoài trời đang mưa. Tôi ngồi trước chiếc máy tính để bàn cũ kỹ, lóc cóc gõ ra những dòng suy tưởng điên rồ từ bộ óc hạn hẹp, hiểu biết ít ỏi và thiếu kiến thức sâu rộng.<br>
+Nhưng không sao cả, tôi tự nhủ vậy. Tôi viết cho chính mình, để làm mình vui là đủ rồi (cười nhẹ).
 
 Tuy là một người ít học, mỗi khi nghe mọi người ngoài kia bàn về những kiến thức siêu việt, những thành tựu khám phá mới, đặc biệt là những câu chuyện về vũ trụ, tôi thường chẳng hiểu gì. Do giới hạn nhận thức của bản thân, tôi chỉ có thể tưởng tượng về vũ trụ qua khoảng trời bằng miệng giếng của mình.<br>
 Ngày nhỏ, tôi cứ nghĩ chỉ có Trái Đất, Mặt Trăng và Mặt Trời là duy nhất.<br>
