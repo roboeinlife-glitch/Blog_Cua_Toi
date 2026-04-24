@@ -21,8 +21,10 @@ Không chỉ có Trái Đất, Mặt Trăng, Mặt Trời, mà còn vô số thi
 Từ khái niệm ấy, tôi bất giác liên tưởng đến tập hợp số trong toán học. Nếu mô phỏng vũ trụ theo kiểu tập hợp, ta sẽ thấy sự liên kết đa chiều, mở rộng và chồng chéo, nơi các tập hợp tác động lên nhau bởi những “lực” sinh ra từ sự khác biệt về kích thước và vật chất.<br>
 Chỉ với mười chữ số từ 0 đến 9, chúng ta đã có thể tạo ra vô tận con số và vô tận tập hợp. <br>
 Giả sử mỗi tập hợp lớn là một vũ trụ, thì sẽ có vô số vũ trụ tương quan, liên kết, mở rộng và chồng chéo lẫn nhau. Các tập hợp con giống như các ngôi sao, hành tinh hay vật chất. Chúng có thể giao nhau (một hành tinh chịu ảnh hưởng của hai hệ sao), bao hàm nhau (Hệ Mặt Trời là tập hợp con của Ngân Hà), hoặc mở rộng bằng cách thêm phần tử mới…<br>
-Để diễn đạt suy tưởng này một cách sinh động hơn, tôi đã nhờ DeepSeek AI giúp viết một chương trình C++ có tên:<br>
-[**Vũ Trụ Tập Hợp Con 3D - Subset Universe Extend**](https://github.com/roboeinlife-glitch/Vu_Tru_Tap_Hop_Con_3D-Subset-Sphere_Extend/blob/main/README.md)<br>
+Để diễn đạt suy tưởng này một cách sinh động hơn, tôi đã nhờ DeepSeek AI giúp viết một chương trình C++ có tên:
+
+[**Vũ Trụ Tập Hợp Con 3D - Subset Universe Extend**](https://github.com/roboeinlife-glitch/Vu_Tru_Tap_Hop_Con_3D-Subset-Sphere_Extend/blob/main/README.md)
+
 Chương trình trực quan hóa các tập hợp con của bộ số {0,1,2,3,4,5,6,7,8,9} dưới dạng các khối cầu 3D, mô phỏng một vũ trụ thu nhỏ. Mỗi node là một tập hợp (tương đương một thực thể), các cạnh nối thể hiện mối quan hệ cha-con và “thước đo tác động tương tác”. <br>
 Cấu trúc 3D cùng khả năng biến hình (từ cầu sang elip, trụ, hyperboloid…) giúp thể hiện sự đa dạng của các hệ, giống như thiên hà xoắn ốc, elip hay bất thường.
 
