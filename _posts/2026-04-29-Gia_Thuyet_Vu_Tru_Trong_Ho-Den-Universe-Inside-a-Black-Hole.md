@@ -54,7 +54,7 @@ Tôi ngồi ngắm kết quả của chương trình [Giả Thuyết Vũ Trụ T
 Tôi vẫn là người ít học, vẫn không hiểu nổi nửa cuốn sách vật lý. Tôi không biết "kỳ dị" có nghĩa là gì trong toán học cao cấp, cũng chẳng biết "lượng tử vòng" hay "vướng víu lượng tử" nó ra làm sao.
 
 Nhưng tôi nhìn thấy nó.<br>
-Tôi thấy những tập hợp nhỏ nằm trong lòng tập hợp lớn. Tôi thấy vận tốc tạo ra ranh giới. Tôi thấy một vũ trụ nằm gọn trong một vũ trụ khác, lồng vào nhau. <br>
+Tôi thấy những tập hợp nhỏ nằm trong lòng tập hợp lớn. Tôi thấy vận tốc tạo ra ranh giới. Tôi thấy một vũ trụ nằm gọn trong một vũ trụ khác, lồng vào nhau. <br><br>
 <img width="1191" height="710" alt="Universe Inside a Black Hole" src="https://github.com/user-attachments/assets/66781e1f-2093-4783-875b-65dc2eb5ba6f" />
 <br><br>
 Có lẽ nào, suy tưởng của một người ít học như tôi, cũng có một ngày… gần với những gì các nhà khoa học đang nghiên cứu? (Cười to). Chắc không phải đâu. Nhưng dù sao, tôi thấy vui.
@@ -66,7 +66,7 @@ Và tôi lại muốn cám ơn.<br>
 
 Và cảm ơn, vì vẫn còn đó, một người bình thường như tôi, được phép mơ về những điều vĩ đại – dù chỉ trong suy tưởng.<br>
 Tối nay, tôi lại ngước nhìn lên bầu trời. Những chấm sáng nhỏ xíu – và cả trái đất mà tôi đang đứng đây nữa – có lẽ đang nằm bên trong lòng một hố đen nào đó, vẫn quay, quay mãi.<br>
-Ai biết được? Biết đâu…
+Ai biết được? Biết đâu…<br>
 Cuối cùng, vẫn luôn là lời cảm ơn đến GitHub – một nền tảng tuyệt vời cho phép tôi được dùng miễn phí để lưu trữ chương trình và viết blog.
 
 Trân trọng!
