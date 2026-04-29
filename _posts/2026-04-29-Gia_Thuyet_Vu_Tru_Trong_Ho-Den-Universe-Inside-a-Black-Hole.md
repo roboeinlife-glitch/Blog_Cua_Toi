@@ -49,7 +49,7 @@ Kết quả cuối cùng là một chương trình có:
 - Cả một bầu hạt bụi trắng lung linh tản khắp, như thể những mảnh vụn của vũ trụ.
 - Và đặc biệt: giữ Shift + kéo chuột trái để xoay góc nhìn các thiên hà bên trong hố đen – như thể thay đổi cách nhìn về vũ trụ con vậy.
   
-Tôi ngồi ngắm kết quả của chương trình [Giả Thuyết Vũ Trụ Trong Hố Đen](https://github.com/roboeinlife-glitch/2026-04-29-Gia_Thuyet_Vu_Tru_Trong_Ho-Den-Universe-Inside-a-Black-Hole), cảm giác nhìn thấy những chấm sáng trắng xanh nhỏ xíu chuyển động tíu tít bên trong vùng tối của hố đen, thấy chúng quay nhanh hơn những thiên hà bên ngoài, tự dưng tôi thấy suy tưởng của mình… không còn là thứ viển vông như tôi nghĩ nữa.
+Tôi ngồi ngắm kết quả của chương trình [Giả Thuyết Vũ Trụ Trong Hố Đen](https://github.com/roboeinlife-glitch/2026-04-29-Gia_Thuyet_Vu_Tru_Trong_Ho-Den-Universe-Inside-a-Black-Hole), cảm giác nhìn thấy những chấm sáng trắng xanh nhỏ xíu chuyển động tíu tít bên trong vùng tối của hố đen, tự dưng tôi thấy suy tưởng của mình… không còn là thứ viển vông như tôi nghĩ nữa.
 
 Tôi vẫn là người ít học, vẫn không hiểu nổi nửa cuốn sách vật lý. Tôi không biết "kỳ dị" có nghĩa là gì trong toán học cao cấp, cũng chẳng biết "lượng tử vòng" hay "vướng víu lượng tử" nó ra làm sao.
 
