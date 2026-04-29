@@ -13,10 +13,13 @@ sidebar:
 
 Hôm nay, ngày 29 tháng tư năm 2026, ngoài trời vừa hửng nắng sau cơn giông. Tôi lại làm bạn với chiếc máy tính để bàn cũ kỹ ấy, lóc cóc gõ tiếp những dòng suy tưởng điên rồ từ bộ óc hạn hẹp và thiếu hiểu biết của mình.<br>
 Hôm trước, tôi đã viết về [Đa Vũ Trụ theo cách nhìn từ tập hợp con](https://roboeinlife-glitch.github.io/Blog_Cua_Toi/2026/04/24/Da-Vu-Tru-Trong-Suy-Tuong-Cua-Toi.html). Hôm nay, tôi lại nghĩ về Hố Đen.
-Chẳng là, sau khi viết bài và làm cái chương trình [mô phỏng mấy tập hợp con](https://github.com/roboeinlife-glitch/Vu_Tru_Tap_Hop_Con_3D-Subset-Sphere_Extend/tree/main) ấy, tự dưng tôi ngồi nhìn chằm chằm vào phần trung tâm của chương trình – chỗ để tập hợp lớn nhất {0,1,2,3,4,5,6,7,8,9} nằm yên bất động. Nó màu xanh đậm, viền vàng, nằm chễm chệ ở giữa, trong khi cả trăm tập hợp con khác quay xung quanh.<br>
-Rồi tôi chợt nghĩ: cái tập hợp lớn nhất ấy, nó chẳng khác gì một hố đen – một điểm kỳ dị nơi mọi thứ hội tụ lại.<br>
+Chẳng là, sau khi viết bài và làm cái chương trình [mô phỏng mấy tập hợp con](https://github.com/roboeinlife-glitch/Vu_Tru_Tap_Hop_Con_3D-Subset-Sphere_Extend/tree/main) ấy, tự dưng tôi ngồi nhìn chằm chằm vào phần trung tâm của chương trình – chỗ để tập hợp lớn nhất {0,1,2,3,4,5,6,7,8,9} nằm yên bất động. Nó màu xanh đậm, viền vàng, nằm chễm chệ ở giữa, trong khi cả trăm tập hợp con khác quay xung quanh.
+
+Rồi tôi chợt nghĩ: cái tập hợp lớn nhất ấy, nó chẳng khác gì một hố đen – một điểm kỳ dị nơi mọi thứ hội tụ lại.
+
 Tôi bắt đầu mày mò đọc (dù đọc chẳng hiểu mấy) về giả thuyết "vũ trụ trong hố đen". Hóa ra có những nhà khoa học thực sự nghiên cứu ý tưởng này:<br>
-Vũ trụ của chúng ta có thể đang nằm bên trong một hố đen khổng lồ của một vũ trụ mẹ nào đó. Và bên trong hố đen này lại có thể có những vũ trụ con khác. Cứ như thế, chồng chéo, lồng vào nhau.<br>
+Vũ trụ của chúng ta có thể đang nằm bên trong một hố đen khổng lồ của một vũ trụ mẹ nào đó. Và bên trong hố đen này lại có thể có những vũ trụ con khác. Cứ như thế, chồng chéo, lồng vào nhau.
+
 Tôi không hiểu hết những phương trình, những khái niệm về kỳ dị, chân trời sự kiện hay cơ học lượng tử vòng. Nhưng tôi hiểu một điều đơn giản hơn:<br>
 Tập hợp càng lớn thì nằm càng xa trung tâm, vận tốc càng lớn. Khi đạt đến một vận tốc cực lớn nào đó, nó tạo ra một vùng quỹ đạo mà nhìn như thể đang đứng yên. Vùng "đứng yên biểu kiến" ấy… chính là ranh giới của hố đen.
 
@@ -51,7 +54,9 @@ Tôi ngồi ngắm kết quả của chương trình [Giả Thuyết Vũ Trụ T
 Tôi vẫn là người ít học, vẫn không hiểu nổi nửa cuốn sách vật lý. Tôi không biết "kỳ dị" có nghĩa là gì trong toán học cao cấp, cũng chẳng biết "lượng tử vòng" hay "vướng víu lượng tử" nó ra làm sao.
 
 Nhưng tôi nhìn thấy nó.<br>
-Tôi thấy những tập hợp nhỏ nằm trong lòng tập hợp lớn. Tôi thấy vận tốc tạo ra ranh giới. Tôi thấy một vũ trụ nằm gọn trong một vũ trụ khác, lồng vào nhau như những búp bê Nga vậy.<br>
+Tôi thấy những tập hợp nhỏ nằm trong lòng tập hợp lớn. Tôi thấy vận tốc tạo ra ranh giới. Tôi thấy một vũ trụ nằm gọn trong một vũ trụ khác, lồng vào nhau. <br>
+<img width="1191" height="710" alt="Universe Inside a Black Hole" src="https://github.com/user-attachments/assets/66781e1f-2093-4783-875b-65dc2eb5ba6f" />
+<br><br>
 Có lẽ nào, suy tưởng của một người ít học như tôi, cũng có một ngày… gần với những gì các nhà khoa học đang nghiên cứu? (Cười to). Chắc không phải đâu. Nhưng dù sao, tôi thấy vui.
 
 Và tôi lại muốn cám ơn.<br>
