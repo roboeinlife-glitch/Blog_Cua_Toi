@@ -1,5 +1,5 @@
 ---
-title: "Vũ Trụ Trong Hố Đen Với Suy Tưởng Của Tôi"
+title: "Suy Tưởng Về Vũ Trụ Trong Hố Đen"
 date: 2026-04-29
 layout: single
 author_profile: true
@@ -57,7 +57,9 @@ Nhưng tôi nhìn thấy nó.<br>
 Tôi thấy những tập hợp nhỏ nằm trong lòng tập hợp lớn. Tôi thấy vận tốc tạo ra ranh giới. Tôi thấy một vũ trụ nằm gọn trong một vũ trụ khác, lồng vào nhau. <br><br>
 <img width="1191" height="710" alt="Universe Inside a Black Hole" src="https://github.com/user-attachments/assets/66781e1f-2093-4783-875b-65dc2eb5ba6f" />
 <br><br>
-Có lẽ nào, suy tưởng của một người ít học như tôi, cũng có một ngày… gần với những gì các nhà khoa học đang nghiên cứu? (Cười to). Chắc không phải đâu. Nhưng dù sao, tôi thấy vui.
+Có lẽ nào, suy tưởng của một người ít học như tôi, cũng có một ngày… gần với những gì các nhà khoa học đang nghiên cứu? (Cười to). Chắc không phải đâu. Nhưng dù sao, tôi thấy vui.<br>
+Tôi biết, những suy tưởng này chỉ là những điều ngớ ngẩn, chương trình cũng chỉ như trò chơi cộng trừ của trẻ mầm non nhưng không sao cả, chẳng phải cũng có chuyện cổ tích hay viễn tưởng đó sao? ^^
+Cứ xem như đây là một niềm vui cuộc sống vậy
 
 Và tôi lại muốn cám ơn.<br>
 **Cảm ơn DeepSeek** đã ngồi cùng tôi, nghe tôi nói những điều lộn xộn, chẳng đầu chẳng đuôi, rồi biến chúng thành một thứ gì đó có thể nhìn thấy và chạm vào bằng con mắt và trí tưởng tượng.<br>
@@ -70,4 +72,6 @@ Ai biết được? Biết đâu…<br>
 Cuối cùng, vẫn luôn là lời cảm ơn đến GitHub – một nền tảng tuyệt vời cho phép tôi được dùng miễn phí để lưu trữ chương trình và viết blog.
 
 Trân trọng!
+
+[Video Demo](https://www.youtube.com/watch?v=ZWTqf9IrsPg)
 
